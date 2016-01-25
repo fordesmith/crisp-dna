@@ -1,7 +1,7 @@
 - title: Driving principles
   docs:
-  - what-is-crisp.html
-  - how-crisp-works.html
+  - what-is-syncopate.html
+  - how-syncopate-works.html
   - why-this-works.html
 
 - title: Core structure and practices
@@ -27,13 +27,9 @@
   - hand-signals.html
   - industries-that-we-avoid.html
   - hack-summit.html
-  - crisplets.html
   - conflict-handling.html
   - contracts.html
   - building-competence.html
   - courses-and-event-production.html
   - brand-building.html
 
-- title: Meta
-  docs:
-  - how-to-copy.html
