@@ -12,8 +12,6 @@ bq. We introduced this to Syncopate because we had just created a lightweight re
 
 h2. The metaphor
 
-!../assets/Muffin.jpg(Sia's Home baked Kanelbulle! Yum!)!
-
 When a muffin (= issue or request) comes in it is warm, juicy and soft. If it sits around for a day it will get cold. If it sits around several days it will become dry and hard. You can warm up an old muffin in the microwave oven as long as it hasn't become too dry.
 
 So, a muffin should be eaten fairly quickly or thrown away. No use stuffing it in a box. If you can't eat it yourself, offer it to someone else - before it gets cold, dry and hard!
