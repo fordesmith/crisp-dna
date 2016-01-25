@@ -6,9 +6,7 @@ next_section: how-crisp-works.html
 
 h1. What is Syncopate and why does it exist?
 
-It hangs on the wall in our office, and we bring it to our conferences so it can be easily updated (it's written in pencil...). Here's what it says:
-
-*Crisp is a home for people who like to 
+*Syncopate is a home for people who like to 
 (a) bring new digital products to market that make the world a better place
 (b) help others to do this in the most effective way possible 
 
