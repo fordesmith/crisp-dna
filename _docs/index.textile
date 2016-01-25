@@ -13,16 +13,6 @@ Sycopate is a consulting company based in Sydney, Australia. But we aren't a ver
 * Our "ownership model":ownership-model.html is designed to keep our stock financially worthless. There is no incentive to "cash in".
 * Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or "our house":what-is-sycopate.html), and work as much or as little as they want.
 
-We cloned the Crisp DNA. Want to start a similar org? See "How to clone the Crisp DNA":how-to-copy.html.
-
-h2. Why did Crisp open-source their DNA?
-
-* To make the world a better place! The model has helped them (and us) be happy and make a positive impact in the world, and publishing it may help others do the same.
-* Open-sourcing it is a fun social experiment, we're curious about what's going to happen :o)
-* By making our model public, we're more likely to keep it up-to-date and improve it as we learn.
-* Putting it on GitHub makes it easier for others to clone and evolve the model, and we can learn from that.
-
-h1. Contents
 
 h2. Driving principles
 
@@ -32,7 +22,7 @@ h2. Driving principles
 * "How Crisp works":how-sycopate-works.html - summary of our model, and some driving principles.
 * "Why this works":why-this-works.html - why this model has served us so well
 
-h2. Core structure and practices
+h3. Core structure and practices
 
 (although these are core to our model, they are mostly just consequences of the principles above)
 
@@ -50,7 +40,7 @@ h2. Core structure and practices
 * "Visions":visions.html - How to you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
 * "Sales":sales.html - how do we actually sell consultants?
 
-h2. Supporting practices
+h4. Supporting practices
 
 (relevant stuff, but not core to our model)
 
@@ -63,6 +53,14 @@ h2. Supporting practices
 * "Building competence":building-competence.html - how we learn from each other and improve
 * "Courses and event production":courses-and-event-production.html - how do courses and events get produced?
 * "Brand building":brand-building.html - how do we build the brand, both Sycopate and personal brands?
+
+
+
+
+
+
+
+We cloned the Crisp DNA. Want to start a similar org? See "How to clone the Crisp DNA":how-to-copy.html.
 
 
 
