@@ -6,7 +6,7 @@ h1. What is this?
 
 Sycopate is a consulting company based in Sydney, Australia. But we aren't a very typical consulting company. For example:
 
-* None of the consultants are actually employed by {{ site.company_name }} 
+* None of the consultants are actually employed by us
 * We have no managers, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and "anyone can drive any decision":decisions.html.
 * Sycopate's main purpose is to enable consultants to be happy, and "Crisp Happiness Index":happiness-index.html is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
 * Sycopate doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants "keep most of what they earn":economic-model.html.
@@ -19,7 +19,7 @@ h2. Driving principles
 (these principles drive almost everything at Sycopate)
 
 * "What is Sycopate":what-is-sycopate.html - the purpose of the company
-* "How Crisp works":how-sycopate-works.html - summary of our model, and some driving principles.
+* "How Sycopate works":how-sycopate-works.html - summary of our model, and some driving principles.
 * "Why this works":why-this-works.html - why this model has served us so well
 
 h3. Core structure and practices
