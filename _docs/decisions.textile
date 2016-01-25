@@ -6,13 +6,13 @@ next_section: recruiting.html
 
 h1. How we make decisions
 
-How do we make decisions in a decentralized organized with no managers?
+How do we make decisions in a decentralised organized with no managers?
 
 Note – for allocation of consultants to client engagements we have a specific protocol for that – the "bun protocol":bun-protocol.html. Similar for recruitment decisions.
 
 h2. Why don’t we have a well defined decision-making process?
 
-We make lots of decisions all the time. Which type of coffee machine to buy? Should our internal fees be raised? Where & when is our next Crisp unconference? Which partners should we invite?
+We make lots of decisions all the time. Which type of coffee machine to buy? Should our internal fees be raised?  Which partners should we invite?
 
 Different types of decisions need a different process. It would be crazy to involve the whole team in decisions like which type of whiteboard pens to buy. And it would be crazy to NOT involve the whole team if we needed to move our office to a new location.
 
@@ -31,10 +31,7 @@ Instead, we follow these principles/guidelines:
 
 *Example:* If the board is considering to raise the team fee, the board drives that question, and therefore gets to pick the decision process.
 
-*Example:* If I want Crisp to collaborate with company X, then I’m the one driving that question and I pick the decision process.
-
-bq. *Meta:* So how did we decide on this decision-making process?
-Henrik: "Well, we didn’t. I just noticed that people sometimes ask 'so how do we make decisions' and I started thinking about how it appeared to work, and wrote a wiki page describing it. Then I had a followup meeting to check if this is how we really work, and if this is how we want to continue working, and the answer was pretty much Yes on both counts."
+*Example:* If I want us to collaborate with company X, then I’m the one driving that question and I pick the decision process.
 
 h2. How do I pick a decision process?
 
@@ -64,8 +61,7 @@ Some things to consider when choosing a decisions process:
 Sample decisions:
 
 * “Should I arrange a free seminar with Lyssa Adkins” => *Own decision*. Just do it.
-* “Which color should we have on the Crisp cup?” => *Own decision with team input*.
-* “How often should we do Crisp unconferences?” => *Own decision with team anchoring*.
+* “Which color should we have on the Syncopate cup?” => *Own decision with team input*.
 * “Should we divided the company into two business units?” => *Team decision*.
 
 At the end of the day it’s about balancing risk. If you make the decision yourself it will be fast, but you risk a backlash if others don’t support it. If you seek 100% consensus you may get a better decision with better support, but it could take time – especially for questions where people have opposing opinions.
@@ -81,7 +77,6 @@ Here are some options:
 * *Check if someone else can drive* the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next Crisp unconference to be in the Maldives I’d involve the "office team":office-team.html, since they usually arrange our unconferences. It’s nice to pair-drive a decision, so you can always ask on the team mailing list to find a co-driver.
 * *Escalate the decision* to the "board of directors":board.html. For example “hey board, I want to change our recruiting process, how would we make a decision like that?”. We try to minimize the number of decisions that have to be made by the board, but they can give useful input about who needs to be involved.
 
-Our "unconferences":unconference.html and similar gatherings are a great place to discuss a decision process – and in many cases make the actual decision as well, since everyone is there :)
 
 h2. How decision-making looks like
 
