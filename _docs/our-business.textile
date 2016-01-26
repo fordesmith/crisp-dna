@@ -14,7 +14,7 @@ In practice though, because of our history and the people who happen to work at 
 # *Large project set up and delivery*. Mostly longer engagements and close to full-time.
 # *Agile/Lean coaching and training*. Mostly shorter engagements or part-time.
 
-That is, most Syncopaters happen to spend most of their time in one of those two areas. Some have one foot in each though.
+That is, most Syncopaters happen to spend most of their time in one of these areas, thought they typically overlap. 
 
 Also, there are some "industries that we avoid":industries-that-we-avoid.html.
 
