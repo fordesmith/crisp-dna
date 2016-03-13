@@ -6,7 +6,7 @@ next_section: why-this-works.html
 
 h1. How Sycopate works
 
-Below is a simple picture of the "Sycopate strategy" but it's really more about what we aim to bring together 
+Below is a simple picture of the "Syncopate strategy" but it's really more about what we aim to bring together 
 
 
 h2. What do we measure?
