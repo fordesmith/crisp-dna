@@ -22,7 +22,7 @@ Because people don't all have to want the same thing. We're in this home togethe
 
 h2. How we work with visions
 
-We're guided by these principles (which we agreed upon on one of our "unconferences":unconference.html):
+We're guided by these principles
 
 * We can have several visions.
 * They can and should be changed, so everyone can discuss.
