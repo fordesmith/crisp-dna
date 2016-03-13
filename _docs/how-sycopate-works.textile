@@ -14,11 +14,11 @@ h2. What do we measure?
 We measure:
 
 * How happy we are (see "Happiness Index":happiness-index.html)
-* How happy our customers are. (actually, this point is partly aspirational. Currently our only systematic customer satisfaction metric is "Net Promoter Score":http://en.wikipedia.org/wiki/Net_Promoter for course participants).
+* How happy our customers are. (actually, this point is partly aspirational. Our preferred systematic customer satisfaction metric is "Net Promoter Score":http://en.wikipedia.org/wiki/Net_Promoter for course participants).
 
 h2. How do we finance the home?
 
-To cover our costs, every Sycopater pays a fixed fee per month + % fee of their revenue. The fixed fee is (FIX FEE), and the variable fee is 10%%. The fee is intended only to cover our costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa. 
+To cover our costs, every Syncopater pays a fixed fee per month + % fee of their revenue. The fixed fee is (FIX FEE), and the variable fee is 10%%. The fee is intended only to cover our costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa. 
 
 bq. *Why a fixed + variable fee?* If we only had a fixed fee, consultants on the bench would quickly run out of money. And if we had only a variable fee, we might have trouble covering our fixed costs if many consultants are on the bench. With a fixed + variable fee, we get a nice balance that matches the fact that our costs are also fixed + variable. 
 
@@ -63,12 +63,12 @@ For more info, see "How we make decisions":decisions.html.
 h2. How do we differentiate?
 
 How are we different from a typical consulting company?
-* Sycopate is not trying to earn money from its consultants
+* Syncopate is not trying to earn money from its consultants
 * 100% freedom for all consultants (as long as they don't hurt the home)
-* Sycopate has no other goal than to provide a happy home
+* Syncopate has no other goal than to provide a happy home
 
 How are we different from a typical network of independents?
-* We are dedicated to Sycopate - that is, consultants are expected to do all their work and invoicing through Sycopate.
+* We are dedicated to Syncopate - that is, consultants are expected to do all their work and invoicing through Sycopate.
 
 h2. Why does this strategy work?
 
