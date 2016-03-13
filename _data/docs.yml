@@ -22,7 +22,6 @@
 
 - title: Supporting practices
   docs:
-  - email-conventions.html
   - industries-that-we-avoid.html
   - sync-out.html
   - conflict-handling.html
