@@ -6,7 +6,7 @@ next_section: decisions.html
 
 h1. Economic Model
 
-The high level economic model is summarized in "How Syncopate Works":how-syncopate-works.html. Here are some concrete examples to make it more clear.
+The high level economic model is summarised in "How Syncopate Works":how-syncopate-works.html. Here are some concrete examples to make it more clear.
 
 h2. Example: One month 
 
