@@ -6,7 +6,7 @@ next_section: how-to-copy.html
 
 h1. Brand building
 
-OK, none of us are experts at brand building. But we've nevertheless ended up with a strong brand within "our business":our-business.html, so here are some thoughts on how that happened.
+OK, none of us are experts at brand building. 
 
 As a consulting company, building a strong brand requires two things:
 # Delight your clients
@@ -16,7 +16,7 @@ Both are needed. If we *only* delight our clients, but aren't visible to the wor
 
 h2. How we delight our clients
 
-We kind of cheat here, because our model only attracts the type of consultants that were already pretty good at delighting their clients - with or without Crisp. In fact, that's a requirement (see "recruiting":recruiting.html)! We don't have an army of sales people chasing down clients for you, and you don't get any kind of base salary if you don't have a client, so it really is in your own interest to delight your clients!
+We kind of cheat here, because our model only attracts the type of consultants that were already pretty good at delighting their clients - with or without Syncopate. In fact, that's a requirement (see "recruiting":recruiting.html)! We don't have an army of sales people chasing down clients for you, and you don't get any kind of base salary if you don't have a client, so it really is in your own interest to delight your clients!
 
 Also, our model attracts the kind of people that like to learn things and spread knowledge. And clients appreciate that.
 
@@ -24,7 +24,7 @@ h2. How we make ourselves visible
 
 Visibility happens as a result of two things:
 
-# Provide plenty of ways for Crispers to communicate with the world (web site, blog, course venue, etc)
+# Provide plenty of ways for us to communicate with the world (web site, blog, course venue, etc)
 # Make sure nothing gets in their way, so they can shine
 
 Again, because our model attracts the kind of people that like to learn and spread knowledge, all we have to do is make sure nothing gets in the way. That way, a bunch of cool stuff happens automatically. 
