@@ -61,8 +61,6 @@ h4. Supporting practices
 
 
 
-We cloned the Crisp DNA. Want to start a similar org? See "How to clone the Crisp DNA":how-to-copy.html.
-
 
 
 
