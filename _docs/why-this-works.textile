@@ -5,7 +5,11 @@ prev_section: how-crisp-works.html
 next_section: happiness-index.html
 ---
 
-h1. Why this model works (for us)
+h1. Why this model works
+
+We cloned the Crisp DNA. Want to start a similar org? See "How to clone the Crisp DNA":how-to-copy.html.
+
+Here's their explanation....
 
 After years of experimenting, we've evolved to a model that works really well for us! Our staff turnover is almost zero, the "happiness index":happiness-index.html is rarely below 4, revenue per consultant is about twice as high as a typical consulting company, and our clients give us amazingly good reviews that we are too humble to display here :o)
 
@@ -44,7 +48,7 @@ Recruitment is crucial - the model only works as long as we are super-picky abou
 
 We'd rather grow too slow than too fast, so we pretty much only hire people that we already know are awesome. We're a bit lazy in that sense, and grateful for other companies that provide a place for the juniors to grow and learn :o)
 
-See "Recruiting":recruiting.html for more details on this.
+
 
  
 
