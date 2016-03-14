@@ -42,7 +42,7 @@ Driving principles
 -   [How we make decisions](decisions.html) - how do decisions get made when there is no manager?
 -   [Recruiting](recruiting.html) - how do new people get in?
 -   [Communication](communication.html) - how do we collaborate, sync, and improve?
--   [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
+-   [Muffin protocol](muffin-protocol.html) - how do we handle customer enquiries and route to the right consultant?
 -   [Office team](office-team.html) - how do we handle admin and day-to-day operations?
 -   [Board of directors](board.html) - Law requires that we have a BoD. So how does the BoD at Syncopate work?
 -   [Our business](our-business.html) - what type of work we do
