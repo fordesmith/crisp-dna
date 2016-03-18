@@ -7,7 +7,7 @@ next_section: sales.html
 Visions
 =======
 
-One big aha in our evolution was when we that Syncopate itself is just a platform. Syncopate doesn't have a Vision (with a Big V), we just want to be a [nice home for consultants](what-is-syncopate.html).
+One big aha in our evolution was when we realised that Syncopate itself is just a platform. Syncopate doesn't have a Vision (with a Big V), we just want to be a [nice home for consultants](what-is-syncopate.html).
 
 However, many of the *people* at Syncopate do have a vision. Here are the most widely shared visions:
 
