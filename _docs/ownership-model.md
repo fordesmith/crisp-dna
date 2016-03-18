@@ -1,4 +1,4 @@
---
+---
 title: Ownership model
 prev_section: happiness-index.html
 next_section: economic-model.html
