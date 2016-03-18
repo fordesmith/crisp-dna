@@ -22,7 +22,7 @@ Also, there are some [industries that we avoid](industries-that-we-avoid.html).
 Different "species" of Syncopateers
 -----------------------------------
 
-We sometimes use a funny animal metaphor to talk about different types of engagements. Most Syncopateers fall into one of these categories (although it can change over time). At our bi-yearly [unconference](unconference.html) all animals get together on a rock and make noise together!
+We sometimes use a funny animal metaphor to talk about different types of engagements. Most Syncopaters fall into one of these categories (although it can change over time). At our bi-yearly [unconference](unconference.html) all animals get together on a rock and make noise together!
 
 Seal consultants
 ----------------
