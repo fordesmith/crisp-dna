@@ -6,7 +6,7 @@ next_section: what-is-syncopate.html
 What is Syncopate?
 ==================
 
-Syncopate is a consulting company based in Sydney, Australia. Formally, Syncopate doesn't really have a business area. We are consultants and people can do whatever they want. Nothing about our model is specific to any domain or industry.
+Syncopate is a consulting company based in Sydney, Australia. Formally, Syncopate doesn't really have a business area. Nothing about our model is specific to any domain or industry.
 
 In practice though, because of our history and the people who happen to work at Syncopate, we're primarily interested in the following business areas:
 
