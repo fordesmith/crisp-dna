@@ -7,6 +7,7 @@
 
 - title: Core structure and practices
   docs:
+  - ownership-model.html
   - happiness-index.html
   - ownership-model.html
   - economic-model.html
