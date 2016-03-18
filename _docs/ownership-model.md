@@ -48,4 +48,3 @@ What if someone buys Syncopate?
 In theory someone could come along and shell out a bunch of cash to buy Syncopate, and in that case the owners would in a sense cash out. But with the current structure we see that as extremely unlikely. Syncopate itself is just a container, a platform. The real value is the consultants, and they aren't even employed by Syncopate. So although someone can technically buy Syncopate, they can't really buy the people inside Syncopate. And besides, who would buy a company that explicitly strives to minimize it's financial value :o)
 
 But who knows. The world can be strange sometimes.
-
