@@ -4,6 +4,7 @@ prev_section: happiness-index.html
 next_section: economic-model.html
 ---
 
+
 Ownership model
 ===============
 
