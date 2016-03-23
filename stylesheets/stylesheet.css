@@ -512,14 +512,15 @@ header h3 a, header h3 a:hover {
   float: left;
 }
 
-#main-content img {
+#main-content 
+img {
   max-width: 100%;
 }
 
-imagehead
+.imagehead
 {
 margin: auto;
-vertical-align:middle;
+vertical-align: middle;
 }
 
 aside#sidebar {
