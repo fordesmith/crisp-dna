@@ -469,6 +469,12 @@ header {
   vertical-align: middle;
 }
 
+.imagehead
+{
+margin: auto;
+vertical-align: middle;
+}
+
 header h1 {
   letter-spacing: -1px;
   font-size: 72px;
@@ -531,11 +537,7 @@ img {
   max-width: 100%;
 }
 
-.imagehead
-{
-margin: auto;
-vertical-align: middle;
-}
+
 
 aside#sidebar {
   width: 200px;
