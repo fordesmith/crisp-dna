@@ -516,6 +516,11 @@ header h3 a, header h3 a:hover {
   max-width: 100%;
 }
 
+.imagehead
+{
+margin: auto;
+}
+
 aside#sidebar {
   width: 200px;
   padding-left: 20px;
