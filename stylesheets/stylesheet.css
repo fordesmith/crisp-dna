@@ -519,6 +519,7 @@ header h3 a, header h3 a:hover {
 imagehead
 {
 margin: auto;
+vertical-align:middle;
 }
 
 aside#sidebar {
