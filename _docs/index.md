@@ -32,7 +32,8 @@ Driving principles
 -   [How Syncopate works](how-Syncopate-works.html) - summary of our model, and some driving principles.
 -   [Why this works](why-this-works.html) - why this model has served us so well
 
-### Core structure and practices
+Core structure and practices
+------------------
 
 (although these are core to our model, they are mostly just consequences of the principles above)
 
@@ -49,7 +50,8 @@ Driving principles
 -   [Visions](visions.html) - How to you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
 -   [Sales](sales.html) - how do we actually sell consultants?
 
-#### Supporting practices
+Supporting practices
+------------------
 
 (relevant stuff, but not core to our model)
 
