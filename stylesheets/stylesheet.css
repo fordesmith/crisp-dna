@@ -688,8 +688,8 @@ form {
   margin-bottom: 0;
   color: #474747;
   text-indent: 6px;
-  text-decoration: underline grey;
 }
+
 #main-content h2:before {
  content: "";
   color: #9ddcff;
