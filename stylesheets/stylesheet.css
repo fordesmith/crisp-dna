@@ -657,10 +657,10 @@ form {
 }
 
 
-/* GENERAL ELEMENT TYPE STYLES */
+/* GENERAL ELEMENT TYPE STYLES * Garamond /
 
 #main-content h1 {
-  font-family: 'Monotype Corsiva', 'Garamond',serif;
+  font-family: 'Monotype Corsiva', 'Tiempos Text',serif;
   font-size: 2.8em;
   font-weight: normal;
   letter-spacing: -1px;
@@ -680,7 +680,7 @@ form {
 }
 
 #main-content h2 {
-  font-family: 'Monotype Corsiva', 'Garamond',serif;
+  font-family: 'Monotype Corsiva', 'Tiempos Text',serif;
   font-size: 2.1em;
   font-weight: normal;
   letter-spacing: -1px;
@@ -698,7 +698,7 @@ form {
 }
 
 #main-content h3 {
-  font-family: 'Monotype Corsiva', 'Garamond',serif;
+  font-family: 'Monotype Corsiva', 'Tiempos Text',serif;
   font-size: 1.8em;
   font-weight: normal;
   margin-top: 24px;
@@ -715,7 +715,7 @@ form {
 }
 
 #main-content h4 {
-  font-family: 'Monotype Corsiva', 'Garamond',serif;
+  font-family: 'Monotype Corsiva', 'Tiempos Text',serif;
   font-size: 1.3em;
   font-weight: normal;
   margin-bottom: 8px;
@@ -731,7 +731,7 @@ h4:before {
 }
 
 #main-content h5 {
-  font-family: 'Monotype Corsiva', 'Garamond',serif;
+  font-family: 'Monotype Corsiva', 'Tiempos Text',serif;
   font-size: 1.2em;
   margin-bottom: 8px;
   color: #474747;
@@ -745,7 +745,7 @@ h5:before {
 }
 
 #main-content h6 {
-  font-family: 'Monotype Corsiva', 'Garamond',serif;
+  font-family: 'Monotype Corsiva', 'Tiempos Text',serif;
   font-size: .8em;
   margin-bottom: 8px;
   color: #474747;
