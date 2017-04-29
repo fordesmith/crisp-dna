@@ -7,7 +7,7 @@ next_section: board.html
 Office team
 ===========
 
-he office team does most of the non-consulting work needed to run the day to day operations.
+The office team does most of the non-consulting work needed to run the day to day operations.
 
 Things like:
 
@@ -30,4 +30,4 @@ In comparison, the other Syncopaters (the consultants) don't have salaries and d
 What about sales?
 -----------------
 
-The office team doesn't really do sales, although they indirectly support the sales process (for example by routing client requests, as per the [Bun Protocol](bun-protocol.html)). Sales is done mostly by the consultants themselves. See [Sales](sales.html).
+The office team doesn't really do sales, although they indirectly support the sales process (for example by routing client requests, as per the [Muffin Protocol](muffin-protocol.html)). Sales is done mostly by the consultants themselves. See [Sales](sales.html).
