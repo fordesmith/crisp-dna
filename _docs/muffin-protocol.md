@@ -1,7 +1,7 @@
 ---
 title: Muffin protocol
 prev_section: communication.html
-next_section: dashboard.html
+next_section: email-conventions.html
 ---
 
 The Muffin Protocol
