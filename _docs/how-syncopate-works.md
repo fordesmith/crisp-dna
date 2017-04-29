@@ -17,7 +17,7 @@ We measure:
 -   How happy we are (see [Happiness Index](happiness-index.html))
 -   How happy our customers are. (actually, this point is partly aspirational. Our preferred systematic customer satisfaction metric is [Net Promoter Score](http://en.wikipedia.org/wiki/Net_Promoter) for course participants).
 
-How do we finance the home?
+How we finance our home?
 ---------------------------
 
 To cover our costs, every Syncopater pays a fixed fee per month + % fee of their revenue. The fixed fee is (FIX FEE), and the variable fee is 10%%. The fee is intended only to cover our costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
@@ -28,7 +28,7 @@ We also have a ceiling, to limit the total fee a consultant pays per year (varia
 
 See [Economic model](economic-model.html) for concrete examples.
 
-What do we do with the money?
+Using the money
 -----------------------------
 
 This picture sums it up:
@@ -46,7 +46,7 @@ The guiding principles are:
 
 See [Economic model](economic-model.html) and [Ownership model](ownership-model.html) for more details on how money flows through the system.
 
-How many do we want to be?
+How big to become?
 --------------------------
 
 -   We don't have a growth target. Growth is not a goal in itself.
@@ -54,7 +54,7 @@ How many do we want to be?
 
 For more see [Recruiting](recruiting.html).
 
-How do we run the company?
+Running the company?
 --------------------------
 
 -   **Lean & Agile** - our approach is based on lean and [agile](http://agilemanifesto.org) principles.
