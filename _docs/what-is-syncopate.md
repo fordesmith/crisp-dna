@@ -4,7 +4,7 @@ prev_section: index.html
 next_section: how-syncopate-works.html
 ---
 
-What is Syncopate and why does it exist?
+Why Syncopate exists?
 ========================================
 
 Syncopate is a home for people who like to
