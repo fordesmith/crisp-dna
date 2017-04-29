@@ -8,7 +8,7 @@ next_section: happiness-index.html
 Why this model works
 ====================
 
-We cloned the Crisp DNA. Want to start a similar org? See [How to clone the Crisp DNA](how-to-copy.html).
+We got the idea of Syncopate by studying a successful Swedish consulting company that's been running for many years called Crisp. We cloned their DNA. Want to start a similar org? See [How to clone the Crisp DNA](how-to-copy.html).
 
 Here's their explanation....
 
