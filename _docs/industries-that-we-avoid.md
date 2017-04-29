@@ -38,7 +38,7 @@ If an industry is on your Black list, and it isn't on anyone else's Green list, 
 
 The only problem we have is if the industry is Green for one person and Black for someone else. That's never happened so far though. The industries that are Black to some people have always been Grey for everyone else (and therefore OK to blacklist).
 
-But can I work in these industries?
+Can I work in these?
 -------------------------------------------------------
 
 Through us, no. Outside, it’s up to the consultant. But no Syncopate material is allowed to be used in that assignment, no connection to the brand at all. The consultant needs to take that through their own company. "Off the record" so to speak.
