@@ -7,7 +7,7 @@ next_section: dashboard.html
 The Muffin Protocol
 ===================
 
-The Muffin protocol (adapted from Crisp's "Bullprotokollet") is a lightweight, decentralized request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
+The Muffin protocol (adapted from Crisp's "Bullprotokollet") is a lightweight, decentralised request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
 
 > We introduced this to Syncopate because we had just created a lightweight recruitment process, and later when we were creating a lightweight sales process we noticed many similarities. So we did an [extract to interface](http://sourcemaking.com/refactoring/extract-interface) refactoring and created this "Muffin Protocol" :o)
 
@@ -29,7 +29,7 @@ How the protocol works
 
 A muffin is born when someone asks you for something and you decide that "hey, this is a muffin". Typically through email, but sometimes a phone call or a conference mingle.
 
-**A muffin always has an owner** - the person who received the muffin. Or more specifically, the person responsible for the communication channel through which the muffin appeared. For example, you are of course responsible for any emails sent directly to you, while the [office team](office-team.html) is responsible for requests to info@crisp.se, etc.
+**A muffin always has an owner** - the person who received the muffin. Or more specifically, the person responsible for the communication channel through which the muffin appeared. For example, you are of course responsible for any emails sent directly to you, while the [office team](office-team.html) is responsible for requests to info@syncopate.com.au, etc.
 
 **When you have a muffin, you are responsible for taking care of it before it gets too dry!** Preferably within 1 working day, definitely within 2.
 
@@ -50,7 +50,7 @@ Summary of the rules
 -   **A muffin should not get more than 1-2 days old** without being eaten by somebody, thrown away, or reheated (by talking to the customer/sender).
 -   **You can't push a muffin onto someone else, they have to pull**. The muffin is yours until someone else explicitly takes it (for example by saying "I'll take the muffin"). You can of course recommend (or even try to convince) someone else to take it from you. This goes both ways - if someone offers you a muffin, you don't have to respond if you aren't interested.
 -   When in doubt:
-    -   Broadcast an email to everybody who might be interested or involved in this muffin (write BULLE in the subject, as per our [email conventions](email-conventions.html)).
+    -   Broadcast an email to everybody who might be interested or involved in this muffin (write MUFFIN in the subject, as per our [email conventions](email-conventions.html)).
     -   or send the muffin to "upwards" or to a central person such the board or our business developer. For example if the muffin seems to be strategic and might lead to a big dinner.
 -   **When broadcasting to find interested muffin-takers, give your colleagues one day** to indicate interest in the muffin. Don't just let the first one that answers have the muffin. There might be more interested. Letting the first one that answers having the muffin leads to race conditions and might cause tension between colleagues.
 
@@ -65,7 +65,7 @@ We've used the protocol for many years and it works really well. Here are some r
 -   **Simple**, anybody can learn it in 5 minutes.
 -   **Can be extended** as needed. New rules can be added, tool support can be added. But don't. Keep it simple and add stuff only if you really, really need it.
 -   **Doesn't require any specific artifacts** or documents that need to be maintained (unless you add that layer yourself...).
--   **Decentralized** - uses "wisdom of the crowds" to ensure that muffins reach the right destination in the shortest possible time with the least possible effort. People such as our business developer can focus on important stuff and not become a bottleneck for all kinds of trivial requests.
+-   **Decentralised** - uses "wisdom of the crowds" to ensure that muffins reach the right destination in the shortest possible time with the least possible effort. People such as our business developer can focus on important stuff and not become a bottleneck for all kinds of trivial requests.
 -   It **scales**. We haven't tried in a bigger group than 25-ish, but it should scale to much higher.
 -   **Customer focused** - customers normally get a response within a reasonable time.
 -   It **promotes trust and collaboration**, and avoids bottlenecks and command & control
