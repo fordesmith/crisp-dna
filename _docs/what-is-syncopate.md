@@ -10,6 +10,7 @@ Why Syncopate exists?
 Syncopate is a home for people who like to
 (a) bring new digital products to market that make the world a better place
 (b) help others to do this in the most effective way possible
+(c) enjoy working with others and being independant
 
 We value:
 
