@@ -40,12 +40,13 @@ Positive feedback loops
 
 (hey, when was the last time you got to write a GOTO statement :o)
 
-Measure and manage motivation. Profit is just a side effect.
+Measure and manage motivation
 ------------------------------------------------------------
+Profit is just a side effect.
 
 The key point is that we focus on keeping ourselves and our customers happy, not profit or growth. Good reputation and profit are simply side effects of keeping ourselves and our customers happy.
 
-Hire awesome people, or don't hire at all
+Hire awesome, or don't hire
 -----------------------------------------
 
 Recruitment is crucial - the model only works as long as we are super-picky about who we bring in. If we start getting below-par consultants, the positive loops above could easily turn into negative loops (bad consultants =&gt; disappointed customers =&gt; bad reputation =&gt; the best consultants leave =&gt; etc).
