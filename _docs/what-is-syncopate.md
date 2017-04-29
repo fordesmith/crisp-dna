@@ -22,3 +22,5 @@ We value:
 We believe these values lead to personal happiness as well as business success.
 
 Basically, we're trying to find the magic balance between being someone who makes the world a better place, being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support).
+
+We based the idea of Syncopate on Crisp, a Swedish consulting company. We cloned their DNA! Want to start a similar org? See [How to clone the Crisp DNA](how-to-copy.html).
