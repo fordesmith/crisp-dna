@@ -1,3 +1,7 @@
+---
+title: Email conventions
+next_section: what-is-syncopate.html
+---
 
 Email conventions
 =================
