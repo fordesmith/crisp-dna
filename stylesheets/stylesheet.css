@@ -681,7 +681,7 @@ form {
 
 #main-content h2 {
   font-family: 'Monotype Corsiva', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 2.5em;
+  font-size: 2.3em;
   font-weight: nomal;
   margin-bottom: 8px;
   color: #474747;
@@ -697,7 +697,7 @@ form {
 #main-content h3 {
   font-family: 'Monotype Corsiva', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 1.8em;
-  font-weight: bold;
+  font-weight: normal;
   margin-top: 24px;
   margin-bottom: 8px;
   color: #474747;
@@ -714,7 +714,7 @@ form {
 #main-content h4 {
   font-family: 'Monotype Corsiva', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 1.3em;
-  font-weight: bold;
+  font-weight: normal;
   margin-bottom: 8px;
   color: #474747;
   text-indent: 3px;
