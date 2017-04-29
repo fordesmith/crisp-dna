@@ -4,14 +4,14 @@ prev_section: economic-model.html
 next_section: recruiting.html
 ---
 
-How we make decisions
+Making decisions
 =====================
 
 How do we make decisions in a decentralised organized with no managers?
 
 Note – for allocation of consultants to client engagements we have a specific protocol for that – the [bun protocol](bun-protocol.html). Similar for recruitment decisions.
 
-Why don’t we have a well defined decision-making process?
+A loose decision process?
 ---------------------------------------------------------
 
 We make lots of decisions all the time. Which type of coffee machine to buy? Should our internal fees be raised? Which partners should we invite?
@@ -20,7 +20,7 @@ Different types of decisions need a different process. It would be crazy to invo
 
 So it’s not a good idea to have one single well-defined decision process for everything. And it’s not a good idea to try to list all potential decision types and create a well-defined process for each type, the list would be too long and complex, and there would be too many gray zones.
 
-Well, how do we make decisions then?
+Well, how do we do it then?
 ------------------------------------
 
 You don’t need a well-defined decision process in order to make decisions. If that was the case, the world would stand still :)
@@ -36,7 +36,7 @@ Instead, we follow these principles/guidelines:
 
 **Example:** If I want us to collaborate with company X, then I’m the one driving that question and I pick the decision process.
 
-How do I pick a decision process?
+Choosing a process?
 ---------------------------------
 
 Here are some examples of different decisions processes on a scale from “fast” to “well-anchored”.
@@ -72,7 +72,7 @@ At the end of the day it’s about balancing risk. If you make the decision your
 
 There is no perfect process, so seek a balance between these extremes! We most often end up in the middle of the scale – “own decision with team input” or “own decision with team anchoring” (where “team” isn’t necessarily the whole team)
 
-What if I still feel unsure of which decision process to use?
+Still unsure?
 -------------------------------------------------------------
 
 Here are some options:
@@ -82,7 +82,7 @@ Here are some options:
 -   **Check if someone else can drive** the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next Crisp unconference to be in the Maldives I’d involve the [office team](office-team.html), since they usually arrange our unconferences. It’s nice to pair-drive a decision, so you can always ask on the team mailing list to find a co-driver.
 -   **Escalate the decision** to the [board of directors](board.html). For example “hey board, I want to change our recruiting process, how would we make a decision like that?”. We try to minimize the number of decisions that have to be made by the board, but they can give useful input about who needs to be involved.
 
-How decision-making looks like
+It looks like...
 ------------------------------
 
 So, decision making can look like this:
