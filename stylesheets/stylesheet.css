@@ -681,11 +681,12 @@ form {
 
 #main-content h2 {
   font-family: 'Monotype Corsiva', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 2.1em;
+  font-size: 2.0em;
   font-weight: nomal;
   margin-bottom: 8px;
   color: #474747;
   text-indent: 4px;
+  line-height: 1.3;
 }
 #main-content h2:before {
   content: "";
