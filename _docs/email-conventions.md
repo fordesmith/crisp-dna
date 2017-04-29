@@ -1,6 +1,7 @@
 ---
 title: Email conventions
-next_section: what-is-syncopate.html
+prev_section: muffin-protocol.html
+next_section: office-team.html
 ---
 
 Email conventions
