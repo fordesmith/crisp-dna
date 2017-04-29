@@ -9,7 +9,7 @@ Industries that we avoid
 
 In theory we avoid the arms industry and the surveillance industry, and some others on a case-by-case basis. That's really not much of a problem in Sydney (or Australia) because we don\`t really have those industries on any scale![]()
 
-Why do we avoid these (or any) industries?
+Why avoid industries?
 ------------------------------------------
 
 Our two [core values](what-is-syncopate.html) "Freedom" and "Heart over Wallet" can sometimes collide. For example when it comes to which industries we work in. Some Crispers feel very strongly against the arms industry and the surveillance industry - for them, "Heart over Wallet" means avoiding those industries even if it means a loss of profit, and they don't want to associate with a consulting company that works with these industries.
