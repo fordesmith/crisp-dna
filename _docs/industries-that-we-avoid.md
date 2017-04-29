@@ -23,7 +23,7 @@ To maintain a [happy home](what-is-syncopate.html) with mutual respect, we've ag
 1.  Syncopate doesn't work with industries that at least one Syncopater has a strong opinion against (currently Arms and Surveillance).
 2.  If someone really wants to take on such a client, they must do so outside of Syncopate.
 
-How do we decide which industries are blacklisted?
+How do we decide blacklists?
 --------------------------------------------------
 
 If you are *strongly* against any specific industry, bring it up (or better yet, before joining). The decision boils down to how strong your feelings are for that industry vs how much others love it :o)
