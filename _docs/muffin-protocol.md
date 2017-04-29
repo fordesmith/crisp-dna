@@ -135,7 +135,7 @@ Be very clear in your communication. Short, clear phrases like:
 -   "I'm taking the muffin!"
 -   "I will throw this muffin away if nobody takes it by Tuesday"
 
-We use the subject-line BULLE for all muffin-routing emails (see [email conventions](email-conventions.html)).
+We use the subject-line MUFFIN for all muffin-routing emails (see [email conventions](email-conventions.html)).
 
 ### What would be alternatives to the muffin protocol?
 
