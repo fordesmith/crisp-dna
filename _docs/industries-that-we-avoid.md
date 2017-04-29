@@ -38,12 +38,12 @@ If an industry is on your Black list, and it isn't on anyone else's Green list, 
 
 The only problem we have is if the industry is Green for one person and Black for someone else. That's never happened so far though. The industries that are Black to some people have always been Grey for everyone else (and therefore OK to blacklist).
 
-Is it OK to take an assignment within these industries?
+But can I work in these industries?
 -------------------------------------------------------
 
 Through us, no. Outside, it’s up to the consultant. But no Syncopate material is allowed to be used in that assignment, no connection to the brand at all. The consultant needs to take that through their own company. "Off the record" so to speak.
 
-What if these are industries that I want to focus on?
+What if really I want to?
 -----------------------------------------------------
 
 If you are a new candidate and one of our blacklisted industries is Green for you, then this probably isn't the right place for you.
