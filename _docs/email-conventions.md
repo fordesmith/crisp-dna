@@ -15,7 +15,7 @@ By default, reading team mail is optional. The only "must-reads" are the ones wi
 
 > We've had this convention for many years and it works great, because it has an subtle but important impact on how we communicate. Normally, a mailing list forces the *receiver* to decide what's important to read or not. Now we shift that responsibility to the *sender*. Think about it: every email on the team list involves *one sender* and *many receivers*, right? So we save a lot of time if we burden the sender rather than the receivers.
 
-OBS = "Read this!"
+CTO = "Read this!"
 ------------------
 
 > CTO =  "Hey check this out!"
