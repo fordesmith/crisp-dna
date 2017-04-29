@@ -9,7 +9,7 @@ Making decisions
 
 How do we make decisions in a decentralised organized with no managers?
 
-Note – for allocation of consultants to client engagements we have a specific protocol for that – the [bun protocol](bun-protocol.html). Similar for recruitment decisions.
+Note – for allocation of consultants to client engagements we have a specific protocol for that – the [Muffin protocol](muffin-protocol.html). Similar for recruitment decisions.
 
 A loose decision process?
 ---------------------------------------------------------
