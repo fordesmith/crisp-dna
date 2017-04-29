@@ -680,19 +680,19 @@ form {
 }
 
 #main-content h2 {
-  font-family: 'Monotype Corsiva', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 2.0em;
-  font-weight: nomal;
-  margin-bottom: 8px;
+  font-size: 2.8em;
+  font-weight: normal;
+  letter-spacing: -1px;
+  margin-top: 0;
+  margin-bottom: 0;
   color: #474747;
-  text-indent: 4px;
-  line-height: 1.3;
+  text-indent: 6px;
 }
 #main-content h2:before {
-  content: "";
+ content: "";
   color: #9ddcff;
   padding-right: 0.3em;
-  margin-left: -1.5em;
+  margin-left: -0.9em;
 }
 
 #main-content h3 {
