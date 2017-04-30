@@ -7,10 +7,10 @@ next_section: how-syncopate-works.html
 Why Syncopate exists?
 ========================================
 
-Syncopate is a home for people who like to
-(a) bring new digital products to market that make the world a better place
-(b) help others to do this in the most effective way possible
-(c) enjoy working with others and being independant
+> Syncopate is a home for people who like to
+> (a) bring new digital products to market that make the world a better place
+> (b) help others to do this in the most effective way possible
+> (c) be part of a consulting partnership
 
 We value:
 
