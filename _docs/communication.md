@@ -19,9 +19,9 @@ Most decisions are made, and most problems solved, in one of the above forums.
 
 Where we **store info**:
 
--   Google Docs - we used it for almost everything now a days. Our main doc is the [dashboard](dashboard.html)
--   Dropbox - we have a dropbox business account that we used for shared docs that don't fit in google docs.
--   GitHub - a github organization account for shared code and, well, the Syncopate DNA that you are reading right now.
+-   Google Docs - we used it for almost everything now a days. 
+-   Google Drive - we have a  account that we used for shared docs that don't fit in google docs.
+-   GitHub - a github organisation account for shared code and, well, the Syncopate DNA that you are reading right now.
 
 How we **communicate with the outside world**:
 
