@@ -13,8 +13,7 @@ Fortunately, Syncopate is built around individuals who love learning anyway, so 
 
 Here are some things we do to keep learning:
 
--   [Sync Summit](sync-summit.html) - two days off site, relaxing and geeking out together
--   RD - a meetup where someone presents something interesting that they've learned recently (see above).
+-   ShareIt - a meetup where someone presents something interesting that they've learned recently (see above).
 -   GDWS - Get Drunk With Syncopate - a pub night that happens from time to time
 -   Invite our favorite gurus and rock stars to come to Sydney and teach courses or co-train with us
 -   Peer-coaching workshops, where the agile coaches meet to help each other solve problems
