@@ -86,7 +86,7 @@ It's quite simple:
 3.  If Y thinks X is suitable, she emails all Syncopaters: "I think X should be a Syncopater, because \[reasons\]. Anyone against?".
 4.  If no response comes within a few days, the decision is done! Otherwise, if people have doubts or questions, keep repeating points 2-3 until the candidate is accepted or rejected.
 
-All active candidates have a "puller", in this case Mrs Y. That's our internal term for the person "pulling" an initiative and making sure things move forward, and that the candidate is well-treated. Similar to the bun holder in our [bun protocol](bun-protocol.html).
+All active candidates have a "puller", in this case Mrs Y. That's our internal term for the person "pulling" an initiative and making sure things move forward, and that the candidate is well-treated. Similar to the bun holder in our [muffin protocol](muffin-protocol.html).
 
 Bottom line: As long as even one single person is against hiring a candidate, we won't do it. We're not really fond of vetoes, but for recruiting it feels motivated. We prefer the risk of rejecting a good candidate, over the risk of accepting a bad candidate.
 
