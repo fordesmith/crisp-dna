@@ -1,7 +1,7 @@
 ---
 title: Sales
 prev_section: visions.html
-next_section: notboardmeeting.html
+next_section: unconference.html
 ---
 
 How we do sales
