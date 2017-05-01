@@ -1,19 +1,19 @@
 ---
-title: Unboard
+title: Unconference
 prev_section: sales.html
 next_section: email-conventions.html
 ---
 
-Syncopate Unboard Meeting
+Syncopate Unconference Meeting
 =========================
 
 Twice per year we do an internal ‘unconference’.
 
-An Unboard meeting is like a normal conference but with no predefined agenda, no predefined list of speakers, no slides, and… er… actually it’s not very much like a normal conference at all! It’s more like an alternative to a conference. If the purpose of a conference is to collaborate and communicate, then an unconference will often fulfill the same purpose in a more simple, fun, and effective way!
+An Unconference meeting is like a normal conference but with no predefined agenda, no predefined list of speakers, no slides, and… er… actually it’s not very much like a normal conference at all! It’s more like an alternative to a conference. If the purpose of a conference is to collaborate and communicate, then an unconference will often fulfill the same purpose in a more simple, fun, and effective way!
 
 > For details, check the ebook [How to run an internal conference](https://leanpub.com/unconference) or [these slides](https://dl.dropboxusercontent.com/u/1018963/Projects/2013-06-18%20Agile%20Evening/HowToRunAnUnconference.pdf) which summarize it.
 
-Why we do conferences
+Why we do Unconferences
 ---------------------
 
 Face-to-face is the most effective way to get to know each other, spread knowledge, solve problems, and make decisions. Unfortunately, since we are consultants and work with different clients, we rarely naturally meet as a big group. So that's the purpose of the unconference - to get everyone together!
