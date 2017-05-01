@@ -10,7 +10,7 @@ Communication
 Our **main internal communication channels** are:
 
 -   [Unconference Meeting](unconference.html) twice per year.
--   Sync Up meetings (or mini-conferences). These happen about twice per year, in between the unboard meetings. Typically a half day or whole day with some kind of theme, like "how we make decisions" or "how we handle conflict" or "how we run courses".
+-   Sync Up meetings (or mini-conferences). These happen about twice per year, in between the unconference meetings. Typically a half day or whole day with some kind of theme, like "how we make decisions" or "how we handle conflict" or "how we run courses".
 -   Team mailing list - a single mailing list with everyone on it. We use simple [email conventions](email-conventions.html) to separate must-read stuff from general discussions, and the [Muffin protocol](muffin-protocol.html) to route client inquiries to the right consultant.
 -   ["official" Board meetings] every month.
 -   [Slack](http://www.slack.com) for chattier stuff (previously Skype)
