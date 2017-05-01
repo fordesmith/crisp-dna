@@ -40,7 +40,7 @@ This is the template for our monthly board meetings.
 How do we elect the board?
 --------------------------
 
-We elect the board annually. Our board consists of four people
+We elect the board annually. Our board consists of three people
 
 1.  Chairman
 2.  Board member 1
@@ -59,7 +59,7 @@ For each position on the board:
 3.  Each Syncopaters casts a vote by writing the name of their favourite candidate on a piece of paper, and putting it in a basket in the middle of the circle.
 4.  When everyone has voted, 2-3 people count the votes in front of the group. The candidate with the largest number of votes is announced the winner without further ado.
 
-We repeat this process until all four positions are filled.
+We repeat this process until all  positions are filled.
 
 Since we vote for one position at a time, we have the possibility to vote for a strong team. Let's say the chairman is an intuitive agile coach, then, maybe, people will vote for a thoughtful programmer in the next round to balance the team.
 Past practice that has emerged, the board usually consist of one from our office staff, one program lead and one agile coach.
