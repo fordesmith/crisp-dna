@@ -4,13 +4,12 @@ prev_section: index.html
 next_section: how-syncopate-works.html
 ---
 
-Why Syncopate exists?
+Why does Syncopate exist?
 ========================================
 
-> Syncopate is a home for people who like to
-> (a) bring new digital products to market that make the world a better place
-> (b) help others to do this in the most effective way possible
-> (c) be part of a consulting partnership
+> Syncopate is a home for people who like to challenge the status quo and improve human potential to create a better world. 
+We do this by uncovering and developing digital innovations and talent and using them to further our client’s success. 
+We work collaboratively with our clients on their most ambitious challenges to deliver lasting change that matters. 
 
 We value:
 
