@@ -20,15 +20,15 @@ Here's our first take, basically a 3-step conflict escalation process.
 Our conflict handling process (ongoing experiment!)
 ---------------------------------------------------
 
-1. I take responsibility for bringing up and sorting out any issue ("gravel") with the involved person(s) ASAP, or accept it and let it go for real (= don't complain). If someone brings up issues with me, I will meet up.
+LEVEL 1: I take responsibility for bringing up and sorting out any issue ("gravel") with the involved person(s) ASAP, or accept it and let it go for real (= don't complain). If someone brings up issues with me, I will meet up.
 
 *... if the conflict didn't get solved:*
 
-2. Invite a facilitator/mediator that both parties trust. The facilitator's role is to help the parties find a mutually acceptable solution, not try to force his/her own solution upon the conflicting parties.
+LEVEL 2: Invite a facilitator/mediator that both parties trust. The facilitator's role is to help the parties find a mutually acceptable solution, not try to force his/her own solution upon the conflicting parties.
 
 *... if the conflict didn't get solved:*
 
-3. Road-kill-head meeting at our office ASAP with the involved parties.
+LEVEL 3: Road-kill-head meeting at our office ASAP with the involved parties.
 
 Gravel? Road-kill? Huh?
 -----------------------
