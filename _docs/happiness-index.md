@@ -9,7 +9,7 @@ Happiness Index
 
 Our primary metric is “Happy Syncopater Index” or HSI. It's the only thing we systemically measure and follow up. Scale is 1-5. The data lives in a dashboard where all can see it (a shared Google spreadsheet).
 
-There's pretty strong peer pressure for people to update this, and most of us do. Some every month, others less frequently. But nobody is forced (remember one of our [core values](what-is-crisp.html) is freedom, so nobody forces anyone to do anything). But all in all this gives us a great overview of what's working and what needs to be fixed.
+There's pretty strong peer pressure for people to update this, and most of us do. Some every month, others less frequently. But nobody is forced (remember one of our [core values](what-is-syncopate.html) is freedom, so nobody forces anyone to do anything). But all in all this gives us a great overview of what's working and what needs to be fixed.
 
 > Jeff Sutherland saw this and got so excited that he wrote an article called [Happiness Metric - the wave of the future](http://www.scruminc.com/happiness-metric-wave-of-future) and now [teaches webinars](http://www.scruminc.com/happiness_metric/) on it and talks about it all over the world. Cool :o)
 
