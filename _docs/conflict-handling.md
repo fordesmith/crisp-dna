@@ -28,7 +28,7 @@ LEVEL 2: Invite a facilitator/mediator that both parties trust. The facilitator'
 
 *... if the conflict didn't get solved:*
 
-LEVEL 3: Road-kill-head meeting at our office ASAP with the involved parties.
+LEVEL 3: "Road-kill" meeting at our office ASAP with the involved parties.
 
 Gravel? Road-kill? Huh?
 -----------------------
