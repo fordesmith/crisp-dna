@@ -37,7 +37,7 @@ Glad you asked!
 
 Gravel is a metaphor for small annoying problems that, if left unfixed, will get worse over time. For example a piece of gravel in your shoe. Best strategy is to stop and remove it as soon as you notice it.
 
-Road-kill is a metaphor for a big ugly stinking thing sitting on the table. It brings the mood down, but it's been around for so long that few people notice it any more, and those who do don't dare mention it or do anything about it.
+Road-kill is a metaphor for a big ugly stinking issue that's affecting our productivity and mood. Roadkill stinks in a way that triggers deep primeval reactions that override higher brain activities. It brings the mood down, and if it's left there for too long, people become desensitised and/or don't dare mention it or do anything about it.
 
 The purpose of our conflict handling process is to catch Gravel before it becomes Road-kill!
 
