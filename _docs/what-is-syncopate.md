@@ -7,7 +7,7 @@ next_section: how-syncopate-works.html
 Why does Syncopate exist?
 ========================================
 
-> Syncopate is a home for people who like to challenge the status quo and improve human potential to create a better world. 
+> Syncopate is a home for people who like to **challenge the status quo and improve human potential to create a better world**. 
 We do this by uncovering and developing digital innovations, ways of working and human talent and using them to further our client’s success. We work collaboratively with our clients on their most ambitious challenges to deliver lasting change that matters. 
 
 We value:
