@@ -54,7 +54,7 @@ DAY 2
 
 
 
-## Description of Agenda Sections
+# Description of Agenda Sections
 
 Below are notes specific to the different parts of the agenda, as well as a few items that aren’t included in the default.
 
