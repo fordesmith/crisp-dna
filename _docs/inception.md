@@ -50,6 +50,8 @@ DAY 2
 * 4:30 - Break
 * 4:45 – Retrospective & Next steps (e.g. entering stories in Jira)
 * 5:30 – End of Day 2
+
+
 ## Description of Agenda Sections
 
 Below are notes specific to the different parts of the agenda, as well as a few items that aren’t included in the default.
