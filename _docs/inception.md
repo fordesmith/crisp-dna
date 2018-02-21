@@ -15,7 +15,7 @@ This page is not a comprehensive documentation of the process, but rather a how-
 Below is a sample schedule for a typical project that has had little formal planning until now. Some projects may not require a full 2 days if they are smaller in scope or have already undergone significant planning efforts. The schedule is a rough timetable (times based on an 8am-5pm day), and it is common to deviate from the exact times specified.
 While it is strongly encouraged that every team member – product owner (“PO”), business analyst (“BA"), Customer Experience designer (“CX”), usability designer (“UX”), developers, PM / scrum master – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
 
-*(note this agenda is specific to the kickoff for the delivery phase of a project - the agenda would be a bit different if it was a design phase)*
+*(note the example agenda below is specific to the kickoff for the delivery phase of a project - the agenda would be a bit different if it was a design phase)*
 
 Day 1
 * 8:15 – Office orientation & get coffee
@@ -51,10 +51,7 @@ DAY 2
 * 5:30 – End of Day 2
 
 
-
-
-
-# Description of Agenda Sections
+## Description of Agenda Sections
 
 Below are notes specific to the different parts of the agenda, as well as a few items that aren’t included in the default.
 
