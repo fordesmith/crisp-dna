@@ -1,12 +1,12 @@
  title: What we do and driving principles
-  docs:
+ docs:
   - what-is-syncopate.html
   - our-business.html
   - how-syncopate-works.html
   - why-this-works.html
 
 - title: Core structure and practices
-  docs:
+docs:
   - ownership-model.html
   - happiness-index.html
   - economic-model.html
@@ -29,3 +29,4 @@
   - contracts.html
   - building-competence.html
   - brand-building.html
+  - inception.html
