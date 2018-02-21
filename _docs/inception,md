@@ -1,8 +1,8 @@
-Using an Inception to kick off a project
+# Using an Inception to kick off a project
 
 Agile Inceptions are powerful and fast ways to get a team to internalize a vision. It’s a two-day investment that saves the company months of up-front planning and allows the teams to begin immediately deliver core product functionality.
 
-*Overview* 
+## Overview
 
 Over the last 10 years or so I’ve been involved with teams adopting the Agile Inception format kick off new projects. I’ve been fortunate to participate in these inception meetings with a couple teams from Pivotal, and I’d like to share my observations on their agenda and process.
 The inception model is a kickoff strategy that is repeatable and well-vetted. At it’s core, the inception deals with how we scope. The session(s) relies on full participation by an engaged audience, and co-location is crucial as we swarm around note-cards on tables and walls.
@@ -10,20 +10,22 @@ This page is not a comprehensive documentation of Pivotal’s process, but rathe
 Pivotal’s default 2-day schedule
 Below is a sample schedule for a typical project that has had little formal planning until now. Some projects may not require a full 2 days if they are smaller in scope or have already undergone significant planning efforts. The schedule is a rough timetable (times based on an 8am-5pm day), and it is common to deviate from the exact times specified.
 While it is strongly encouraged that every team member – developers, PMs, designers – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
-Day 1
-Day 2
-8:15 – Office orientation & get coffee8:30 – Welcome: what’s an inception?
 
+'''
+Day 1
+
+8:15 – Office orientation & get coffee
+8:30 – Welcome: what’s an inception?
 8:45 – Introductions: who’s who?
 9:00 – High-level product concept & background
 9:15 – Break
 9:30 – Goals & Timeline
 10:00 – Risks
-10:45 – Break
+*10:45 – Break*
 11:00 – User Roles
 11:45 – Lunch Break
 1:00 – Activities and Workflows
-2:15 – Break
+*2:15 – Break*
 2:30 – Story Mapping
 3:45 – End of Day 1
 8:15 – Get coffee & be seated8:30 – Summary of where we left off & what’s ahead
