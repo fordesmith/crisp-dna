@@ -1,4 +1,3 @@
-
 ---
 title: Inception
 prev_section: what-is-syncopate.html
