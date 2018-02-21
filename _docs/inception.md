@@ -29,17 +29,17 @@ While it is strongly encouraged that every team member – developers, PMs, desi
  --------
 
  **DAY 2**
- *8:15 – Get coffee & be seated8:30 – Summary of where we left off & what’s ahead
- 8:45 – Story Mapping (cont.)
- 9:30 – Break
- 9:45 – Story Mapping (cont.)
- 10:45 – Prioritization
- 11:45 – Lunch Break
- 1:15 – Risks (revisited)
- 1:45 – Break
- 2:00 – Next Steps
- 2:15 – Retrospective
- 3:15 – End of Day 2
+* 8:15 – Get coffee & be seated8:30 – Summary of where we left off & what’s ahead
+* 8:45 Story Mapping (cont.)
+* 9:30 – Break
+* 9:45 – Story Mapping (cont.)
+* 10:45 – Prioritization
+* 11:45 – Lunch Break
+* 1:15 – Risks (revisited)
+* 1:45 – Break
+* 2:00 – Next Steps
+* 2:15 – Retrospective
+* 3:15 – End of Day 2
 
 
 #Description of Agenda Sections
