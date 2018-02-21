@@ -10,35 +10,42 @@ Starter for 10 - The 2-day schedule
 Below is a sample schedule for a typical project that has had little formal planning until now. Some projects may not require a full 2 days if they are smaller in scope or have already undergone significant planning efforts. The schedule is a rough timetable (times based on an 8am-5pm day), and it is common to deviate from the exact times specified.
 While it is strongly encouraged that every team member – developers, PMs, designers – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
 
-> Day 1
+> **Day 1**
 
-8:15 – Office orientation & get coffee
-8:30 – Welcome: what’s an inception?
-8:45 – Introductions: who’s who?
-9:00 – High-level product concept & background
-9:15 – Break
-9:30 – Goals & Timeline
-10:00 – Risks
-*10:45 – Break*
-11:00 – User Roles
-11:45 – Lunch Break
-1:00 – Activities and Workflows
-*2:15 – Break*
-2:30 – Story Mapping
-3:45 – End of Day 1
-8:15 – Get coffee & be seated8:30 – Summary of where we left off & what’s ahead
+> 8:15 – Office orientation & get coffee
+> 8:30 – Welcome: what’s an inception?
+> 8:45 – Introductions: who’s who?
+> 9:00 – High-level product concept & background
+> 9:15 – Break
+> 9:30 – Goals & Timeline
+> 10:00 – Risks
+> 10:45 – Break
+> 11:00 – User Roles
+> 11:45 – Lunch Break
+> 1:00 – Activities and Workflows
+> 2:15 – Break
+> 2:30 – Story Mapping
+> 3:45 – End of Day 1
+>
+> --------
+> **DAY 2**
 
-8:45 – Story Mapping (cont.)
-9:30 – Break
-9:45 – Story Mapping (cont.)
-10:45 – Prioritization
-11:45 – Lunch Break
-1:15 – Risks (revisited)
-1:45 – Break
-2:00 – Next Steps
-2:15 – Retrospective
-3:15 – End of Day 2
-Description of Agenda Sections
+> 8:15 – Get coffee & be seated8:30 – Summary of where we left off & what’s ahead
+
+> 8:45 – Story Mapping (cont.)
+> 9:30 – Break
+> 9:45 – Story Mapping (cont.)
+> 10:45 – Prioritization
+> 11:45 – Lunch Break
+> 1:15 – Risks (revisited)
+> 1:45 – Break
+> 2:00 – Next Steps
+> 2:15 – Retrospective
+> 3:15 – End of Day 2
+
+
+#Description of Agenda Sections
+
 Below are notes specific to the different parts of the agenda, as well as a few items that aren’t included in the default.
 Introduction of People and Agenda
 Start with a quick go-around of everyone’s name / role / department / etc.
