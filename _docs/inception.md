@@ -13,7 +13,7 @@ Agile Inceptions are powerful and fast ways to get a team to internalise a visio
 Over the last 10 years or so I’ve been involved with teams adopting the Agile Inception format kick off new projects. The inception model is a kick-off strategy that is repeatable and well-vetted. At it’s core, the inception deals with how we scope. The session(s) relies on full participation by an engaged audience, and co-location is crucial as we swarm around note-cards on tables and walls.
 This page is not a comprehensive documentation of the process, but rather a how-to for interested project leaders to get started spinning up our own inceptions. Starter for 10 - The 2-day schedule
 Below is a sample schedule for a typical project that has had little formal planning until now. Some projects may not require a full 2 days if they are smaller in scope or have already undergone significant planning efforts. The schedule is a rough timetable (times based on an 8am-5pm day), and it is common to deviate from the exact times specified.
-While it is strongly encouraged that every team member – product owner (“PO”), business analyst (“BA), Customer Experience designer (“CX”), usability designer (“UX”), developers, PM / scrum master – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
+While it is strongly encouraged that every team member – product owner (“PO”), business analyst (“BA"), Customer Experience designer (“CX”), usability designer (“UX”), developers, PM / scrum master – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
 
 *(note this agenda is specific to the kickoff for the delivery phase of a project - the agenda would be a bit different if it was a design phase)*
 
@@ -49,6 +49,7 @@ DAY 2
 * 4:30 - Break
 * 4:45 – Retrospective & Next steps (e.g. entering stories in Jira)
 * 5:30 – End of Day 2
+
 
 
 
