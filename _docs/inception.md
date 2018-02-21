@@ -1,3 +1,4 @@
+
 # Using an Inception to kick off a project
 
 Agile Inceptions are powerful and fast ways to get a team to internalize a vision. It’s a two-day investment that saves the company months of up-front planning and allows the teams to begin immediately deliver core product functionality.
@@ -17,6 +18,7 @@ While it is strongly encouraged that every team member – developers, PMs, desi
 * 9:00 – High-level product concept & background
 * 9:15 – Break
 * 9:30 – Goals & Timeline
+
 * 10:00 – Risks
 * 10:45 – Break
 * 11:00 – User Roles
@@ -29,7 +31,8 @@ While it is strongly encouraged that every team member – developers, PMs, desi
  --------
 
  **DAY 2**
-* 8:15 – Get coffee & be seated8:30 – Summary of where we left off & what’s ahead
+* 8:15 – Get coffee & be seated
+* 8:30 – Summary of where we left off & what’s ahead
 * 8:45 Story Mapping (cont.)
 * 9:30 – Break
 * 9:45 – Story Mapping (cont.)
@@ -41,11 +44,13 @@ While it is strongly encouraged that every team member – developers, PMs, desi
 * 2:15 – Retrospective
 * 3:15 – End of Day 2
 
+--------
 
-#Description of Agenda Sections
+##Description of Agenda Sections
 
 Below are notes specific to the different parts of the agenda, as well as a few items that aren’t included in the default.
-Introduction of People and Agenda
+
+###Introduction of People and Agenda
 Start with a quick go-around of everyone’s name / role / department / etc.
 Discuss the agenda items, pointing out when the breaks take place.
 Remind participants to not use electronic devices (laptops, phones, etc.) in order to have everyone engaged with few distractions.
