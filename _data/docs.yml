@@ -1,32 +1,34 @@
- title: What we do and driving principles
-   docs:
-  - what-is-syncopate.html
-  - our-business.html
-  - how-syncopate-works.html
-  - why-this-works.html
-
-- title: Core structure and practices
-  docs:
-  - ownership-model.html
-  - happiness-index.html
-  - economic-model.html
-  - decisions.html
-  - recruiting.html
-  - communication.html
-  - muffin-protocol.html
-  - email-conventions.html
-  - office-team.html
-  - board.html
-  - visions.html
-  - sales.html
-  - unconference.html
-
-- title: Supporting practices
-  docs:
-  - industries-that-we-avoid.html
-  - sync-out.html
-  - conflict-handling.html
-  - contracts.html
-  - building-competence.html
-  - brand-building.html
-  - inception.html
+--- 
+- 
+  docs: 
+    - what-is-syncopate.html
+    - our-business.html
+    - how-syncopate-works.html
+    - why-this-works.html
+  title: "What we do and driving principles"
+- 
+  docs: 
+    - ownership-model.html
+    - happiness-index.html
+    - economic-model.html
+    - decisions.html
+    - recruiting.html
+    - communication.html
+    - muffin-protocol.html
+    - email-conventions.html
+    - office-team.html
+    - board.html
+    - visions.html
+    - sales.html
+    - unconference.html
+  title: "Core structure and practices"
+- 
+  docs: 
+    - industries-that-we-avoid.html
+    - sync-out.html
+    - conflict-handling.html
+    - contracts.html
+    - building-competence.html
+    - brand-building.html
+    - inception.html
+  title: "Supporting practices"
