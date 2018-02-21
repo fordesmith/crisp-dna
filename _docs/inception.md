@@ -1,4 +1,5 @@
 
+(Not
 # Using an Inception to kick off a project
 
 Agile Inceptions are powerful and fast ways to get a team to internalise a vision and plan out a project. It’s a two-day investment that allows the teams to begin immediately deliver core product functionality.
@@ -9,6 +10,8 @@ The inception model is a kick-off strategy that is repeatable and well-vetted. A
 This page is not a comprehensive documentation of the process, but rather a how-to for interested project leaders to get started spinning up our own inceptions. Starter for 10 - The 2-day schedule
 Below is a sample schedule for a typical project that has had little formal planning until now. Some projects may not require a full 2 days if they are smaller in scope or have already undergone significant planning efforts. The schedule is a rough timetable (times based on an 8am-5pm day), and it is common to deviate from the exact times specified.
 While it is strongly encouraged that every team member – product owner (“PO”), business analyst (“BA), Customer Experience designer (“CX”), usability designer (“UX”), developers, PM / scrum master – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
+
+*(note this agenda is specific to the kickoff for the delivery phase of a project - the agenda would be a bit different if it was a design phase)*
 
 Day 1
 * 8:15 – Office orientation & get coffee
