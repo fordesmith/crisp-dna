@@ -1,5 +1,11 @@
 
-(Not
+---
+title: Inception
+prev_section: what-is-syncopate.html
+next_section: what-is-syncopate.html
+---
+
+
 # Using an Inception to kick off a project
 
 Agile Inceptions are powerful and fast ways to get a team to internalise a vision and plan out a project. It’s a two-day investment that allows the teams to begin immediately deliver core product functionality.
