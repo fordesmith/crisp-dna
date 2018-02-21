@@ -1,4 +1,9 @@
-- title: What we do and driving principles
+
+- title: Tools and ideas
+
+  docs:
+
+  - inception.html- title: What we do and driving principles
   docs:
   - what-is-syncopate.html
   - our-business.html
@@ -34,3 +39,7 @@
 - title: Tools and ideas
   docs:
   - inception.html
+  
+  - title: Supporting practices
+  docs:
+  - industries-that-we-avoid.html
