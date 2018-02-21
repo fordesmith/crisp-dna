@@ -8,38 +8,40 @@ Over the last 10 years or so I’ve been involved with teams adopting the Agile 
 The inception model is a kick-off strategy that is repeatable and well-vetted. At it’s core, the inception deals with how we scope. The session(s) relies on full participation by an engaged audience, and co-location is crucial as we swarm around note-cards on tables and walls.
 This page is not a comprehensive documentation of the process, but rather a how-to for interested project leaders to get started spinning up our own inceptions. Starter for 10 - The 2-day schedule
 Below is a sample schedule for a typical project that has had little formal planning until now. Some projects may not require a full 2 days if they are smaller in scope or have already undergone significant planning efforts. The schedule is a rough timetable (times based on an 8am-5pm day), and it is common to deviate from the exact times specified.
-While it is strongly encouraged that every team member – developers, PMs, designers – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
+While it is strongly encouraged that every team member – product owner (“PO”), business analyst (“BA), Customer Experience designer (“CX”), usability designer (“UX”), developers, PM / scrum master – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
 
-
- **Day 1**
+Day 1
 * 8:15 – Office orientation & get coffee
 * 8:30 – Welcome: what’s an inception?
 * 8:45 – Introductions: who’s who?
-* 9:00 – High-level product concept & background
+* 9:00 – High-level product concept & background (PO)
 * 9:15 – Break
-* 9:30 – Goals & Timeline
-* 10:00 – Risks
+* 9:30 – Goals & Timeline (PO)
+* 10:00 – Service Blueprint (CX)
 * 10:45 – Break
-* 11:00 – User Roles
+* 11:00 – Tech Solution Design (Tech lead)
 * 11:45 – Lunch Break
-* 1:00 – Activities and Workflows
+* 12:30 – Story Reviews, Decomposition and Estimation (BA, UX, Tech lead)
 * 2:15 – Break
-* 2:30 – Story Mapping
-* 3:45 – End of Day 1
+* 2:30 – Story Reviews, Decomposition and Estimation (cont.)
+* 3:30 – Break
+* 3:45 – Story Reviews, Decomposition and Estimation (cont.)
 
- **DAY 2**
+DAY 2
 * 8:15 – Get coffee & be seated
 * 8:30 – Summary of where we left off & what’s ahead
-* 8:45 Story Mapping (cont.)
+* 8:45 – Story Reviews, Decomposition and Estimation (cont.)
 * 9:30 – Break
-* 9:45 – Story Mapping (cont.)
-* 10:45 – Prioritization
+* 9:45 – Story Reviews, Decomposition and Estimation (cont.)
 * 11:45 – Lunch Break
-* 1:15 – Risks (revisited)
-* 1:45 – Break* 2:00 – Next Steps
-* 2:15 – Retrospective
-* 3:15 – End of Day 2
-
+* 12:30 – Risks and issues
+* 1:45 – Break
+* 2:00 – Sprint planning
+* 3:15 – Break
+* 3:30 - Sprint planning (cont.)
+* 4:30 - Break
+* 4:45 – Retrospective & Next steps (e.g. entering stories in Jira)
+* 5:30 – End of Day 2
 ## Description of Agenda Sections
 
 Below are notes specific to the different parts of the agenda, as well as a few items that aren’t included in the default.
