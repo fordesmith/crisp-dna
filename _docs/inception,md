@@ -1,18 +1,16 @@
 # Using an Inception to kick off a project
 
-Agile Inceptions are powerful and fast ways to get a team to internalize a vision. It’s a two-day investment that saves the company months of up-front planning and allows the teams to begin immediately deliver core product functionality.
+Agile Inceptions are powerful and fast ways to get a team to internalize a vision. It’s a two-day investment that saves the company months of up-front planning and allows the teams to begin immediately deliver core product functionality.
 
 ## Overview
+Over the last 10 years or so I’ve been involved with teams adopting the Agile Inception format kick off new projects. I’ve been fortunate to participate in these inception meetings with a couple teams from Pivotal, and I’d like to share my observations on their agenda and process.
+The inception model is a kick-off strategy that is repeatable and well-vetted. At it’s core, the inception deals with how we scope. The session(s) relies on full participation by an engaged audience, and co-location is crucial as we swarm around note-cards on tables and walls.
+This page is not a comprehensive documentation of the process, but rather a how-to for interested project leaders to get started spinning up our own inceptions. 
+Starter for 10 - The 2-day schedule
+Below is a sample schedule for a typical project that has had little formal planning until now. Some projects may not require a full 2 days if they are smaller in scope or have already undergone significant planning efforts. The schedule is a rough timetable (times based on an 8am-5pm day), and it is common to deviate from the exact times specified.
+While it is strongly encouraged that every team member – developers, PMs, designers – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
 
-Over the last 10 years or so I’ve been involved with teams adopting the Agile Inception format kick off new projects. I’ve been fortunate to participate in these inception meetings with a couple teams from Pivotal, and I’d like to share my observations on their agenda and process.
-The inception model is a kickoff strategy that is repeatable and well-vetted. At it’s core, the inception deals with how we scope. The session(s) relies on full participation by an engaged audience, and co-location is crucial as we swarm around note-cards on tables and walls.
-This page is not a comprehensive documentation of Pivotal’s process, but rather a how-to for interested project leaders to get started spinning up our own inceptions. For more details on Pivotal’s methods, see their detailed blog post.
-Pivotal’s default 2-day schedule
-Below is a sample schedule for a typical project that has had little formal planning until now. Some projects may not require a full 2 days if they are smaller in scope or have already undergone significant planning efforts. The schedule is a rough timetable (times based on an 8am-5pm day), and it is common to deviate from the exact times specified.
-While it is strongly encouraged that every team member – developers, PMs, designers – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
-
-'''
-Day 1
+> Day 1
 
 8:15 – Office orientation & get coffee
 8:30 – Welcome: what’s an inception?
@@ -106,4 +104,4 @@ Capturing actions with committed people (including backups) and due dates is a c
 Retrospective & Closing
 A quick retrospective of the inception is helpful to continually improve the process. Update this wiki with suggestions/improvements, and give constructive feedback to the facilitators so they can sharpen their skills.
 Conclusion
-Agile Inceptions are both powerful and fast in getting the team to internalize a vision, and the two-day session vets out goals, risks, roles and use cases, as well as other key topics.  All the players are together, focusing on the project and airing the ideas and assumptions about the project so that the entire team starts off on the same page. The design emerges organically, saving months of requirements gathering, and the structured discovery process enables participants to begin delivering core product functionality immediately.
+Agile Inceptions are both powerful and fast in getting the team to internalize a vision, and the two-day session vets out goals, risks, roles and use cases, as well as other key topics.  All the players are together, focusing on the project and airing the ideas and assumptions about the project so that the entire team starts off on the same page. The design emerges organically, saving months of requirements gathering, and the structured discovery process enables participants to begin delivering core product functionality immediately.
