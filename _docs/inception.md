@@ -39,8 +39,6 @@ While it is strongly encouraged that every team member – developers, PMs, desi
 * 2:15 – Retrospective
 * 3:15 – End of Day 2
 
---------
-
 ## Description of Agenda Sections
 
 Below are notes specific to the different parts of the agenda, as well as a few items that aren’t included in the default.
