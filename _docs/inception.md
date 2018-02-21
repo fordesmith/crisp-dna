@@ -5,8 +5,7 @@ Agile Inceptions are powerful and fast ways to get a team to internalise a visio
 ## Overview
 Over the last 10 years or so I’ve been involved with teams adopting the Agile Inception format kick off new projects. I’ve been fortunate to participate in these inception meetings with a couple teams from Pivotal, and I’d like to share my observations on their agenda and process.
 The inception model is a kick-off strategy that is repeatable and well-vetted. At it’s core, the inception deals with how we scope. The session(s) relies on full participation by an engaged audience, and co-location is crucial as we swarm around note-cards on tables and walls.
-This page is not a comprehensive documentation of the process, but rather a how-to for interested project leaders to get started spinning up our own inceptions. 
-Starter for 10 - The 2-day schedule
+This page is not a comprehensive documentation of the process, but rather a how-to for interested project leaders to get started spinning up our own inceptions. Starter for 10 - The 2-day schedule
 Below is a sample schedule for a typical project that has had little formal planning until now. Some projects may not require a full 2 days if they are smaller in scope or have already undergone significant planning efforts. The schedule is a rough timetable (times based on an 8am-5pm day), and it is common to deviate from the exact times specified.
 While it is strongly encouraged that every team member – developers, PMs, designers – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
 
@@ -26,7 +25,6 @@ While it is strongly encouraged that every team member – developers, PMs, desi
 * 2:30 – Story Mapping
 * 3:45 – End of Day 1
 
-
  **DAY 2**
 * 8:15 – Get coffee & be seated
 * 8:30 – Summary of where we left off & what’s ahead
@@ -36,7 +34,6 @@ While it is strongly encouraged that every team member – developers, PMs, desi
 * 10:45 – Prioritization
 * 11:45 – Lunch Break
 * 1:15 – Risks (revisited)
-
 * 1:45 – Break
 * 2:00 – Next Steps
 * 2:15 – Retrospective
