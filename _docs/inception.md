@@ -11,7 +11,6 @@ Below is a sample schedule for a typical project that has had little formal plan
 While it is strongly encouraged that every team member – developers, PMs, designers – be present for the entire inception, the use of laptops is frowned upon. (They have a way of distracting people!) In addition to lunch, there are breaks throughout each day – email checking, etc. should be reserved for those times so that all attendees are focused and engaged.
 
 > **Day 1**
-
 > 8:15 – Office orientation & get coffee
 > 8:30 – Welcome: what’s an inception?
 > 8:45 – Introductions: who’s who?
@@ -28,10 +27,9 @@ While it is strongly encouraged that every team member – developers, PMs, desi
 > 3:45 – End of Day 1
 >
 > --------
+>
 > **DAY 2**
-
 > 8:15 – Get coffee & be seated8:30 – Summary of where we left off & what’s ahead
-
 > 8:45 – Story Mapping (cont.)
 > 9:30 – Break
 > 9:45 – Story Mapping (cont.)
