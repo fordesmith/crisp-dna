@@ -532,7 +532,7 @@ header h3 a, header h3 a:hover {
 }
 
 #main-content {
-  width: 690px;
+
   float: left;
 }
 
@@ -666,8 +666,8 @@ form {
   font-size: 2.8em;
   font-weight: normal;
   letter-spacing: -1px;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 10px;
+  margin-bottom: 20px;
   color: #474747;
   text-indent: 6px;
 }
@@ -686,8 +686,8 @@ form {
   font-size: 2.1em;
   font-weight: normal;
   letter-spacing: -1px;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 20px;
+  margin-bottom: 10px;
   color: #474747;
   text-indent: 6px;
 }
@@ -844,7 +844,8 @@ footer a:hover {
     font-size: 30px;
   }
   #main-content {
-    width: 490px;
+   /* width: 490px;*/
+   width: 100% ! important;
   }
   #main-content h1:before,
   #main-content h2:before,
@@ -854,7 +855,7 @@ footer a:hover {
   #main-content h6:before {
     content: none;
     padding-right: 0;
-    margin-left: 0;
+    margin-left: 20px;
   }
 }
 

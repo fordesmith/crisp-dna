@@ -1,11 +1,11 @@
 --- 
 - 
   docs: 
-    - what-is-syncopate.html
+    - our-why.html
     - our-business.html
     - how-syncopate-works.html
     - why-this-works.html
-  title: "What we do and driving principles"
+  title: "Principles"
 - 
   docs: 
     - ownership-model.html
@@ -21,7 +21,7 @@
     - visions.html
     - sales.html
     - unconference.html
-  title: "Core structure and practices"
+  title: "Operations"
 - 
   docs: 
     - industries-that-we-avoid.html
@@ -30,8 +30,14 @@
     - contracts.html
     - building-competence.html
     - brand-building.html
-  title: "Supporting practices"
+  title: "Practices"
+- 
+  docs: 
+    - TBC1.html
+    - TBC2.html
+    - TBC3.html
+  title: "Blog"
 - 
   docs: 
     - inception.html
-  title: Other
+  title: Tools

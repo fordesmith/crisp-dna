@@ -1,6 +1,6 @@
 ---
 title: Syncopate DNA
-next_section: what-is-syncopate.html
+next_section: our-why.html
 ---
 
 What is Syncopate?
