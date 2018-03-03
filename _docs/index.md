@@ -28,7 +28,7 @@ Driving principles
 
 (these principles drive almost everything at Syncopate)
 
--   [What is Syncopate](what-is-Syncopate.html) - the purpose of the company
+-   [What is Syncopate](our-why.html) - the purpose of the company
 -   [How Syncopate works](how-Syncopate-works.html) - summary of our model, and some driving principles.
 -   [Why this works](why-this-works.html) - why this model has served us so well
 
