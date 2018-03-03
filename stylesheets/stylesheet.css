@@ -481,7 +481,7 @@ vertical-align: middle;
 
 header h1 {
   letter-spacing: -1px;
-  font-size: 72px;
+  font-size: 36px;
   font-weight: normal;
   color: #fff;
   line-height: 1;
@@ -570,11 +570,11 @@ a.button {
   width: 134px;
   height: 58px;
   line-height: 1.2;
-  font-size: 23px;
+  font-size: 12px;
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Montype Corsiva', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Montype Corsiva', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 a.button small {
   display: block;
@@ -663,7 +663,7 @@ form {
 
 #main-content h1 {
   font-family: 'Bebas Neue', 'Tiempos Text',serif;
-  font-size: 2.8em;
+  font-size: 2.3em;
   font-weight: normal;
   letter-spacing: -1px;
   margin-top: 10px;
@@ -683,7 +683,7 @@ form {
 
 #main-content h2 {
   font-family: 'Bebas Neue', 'Tiempos Text',serif;
-  font-size: 2.1em;
+  font-size: 1.9em;
   font-weight: normal;
   letter-spacing: -1px;
   margin-top: 20px;
@@ -701,7 +701,7 @@ form {
 
 #main-content h3 {
   font-family: 'Bebas Neue', 'Tiempos Text',serif;
-  font-size: 1.8em;
+  font-size: 1.6em;
   font-weight: normal;
   margin-top: 24px;
   margin-bottom: 8px;
@@ -759,6 +759,14 @@ h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
 }
+#main-content body {
+  font-size: 16px;
+  line-height: 1.5;
+  background: #fafafa;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-weight: 400;
+  color: #666;
+}
 
 p {
   margin-bottom: 20px;
@@ -795,7 +803,7 @@ dl dd {
 }
 
 footer {
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
+ 
   margin-top: 40px;
   padding-top: 20px;
   padding-bottom: 30px;
@@ -874,7 +882,7 @@ footer a:hover {
     width: 100%;
   }
   header h1 {
-    font-size: 48px;
+    font-size: 36px;
   }
   header h2 {
     font-size: 24px;
@@ -980,9 +988,9 @@ footer a:hover {
 }
 
 .section-nav .next:after, .section-nav .prev:before {
-    font-size: 36px;
+    font-size: 24px;
     color: #222;
-    font-weight: 900;
+    font-weight: 600;
     text-shadow: 0 1px 0 rgba(255,255,255,.4);
     position: absolute;
     top: -7px;
@@ -998,8 +1006,8 @@ footer a:hover {
     /* left: 10px; */
 }
 
-.section-nav .prev, .section-nav .prev:hover { padding-left: 12px; }
-.section-nav .next, .section-nav .next:hover { padding-right: 12px; }
+.section-nav .prev, .section-nav .prev:hover { padding-left: 8px; }
+.section-nav .next, .section-nav .next:hover { padding-right: 8px; }
 
 .current a {
   font-weight: 900;
