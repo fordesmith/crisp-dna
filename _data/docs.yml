@@ -32,11 +32,6 @@
   title: "Practices"
 - 
   docs: 
-    - content_to_inspire.html
-    - TBC2.html
-    - TBC3.html
-  title: "Blog"
-- 
-  docs: 
     - inception.html
+    - content_to_inspire.html
   title: Tools
