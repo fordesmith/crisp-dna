@@ -27,7 +27,7 @@ We sometimes use a funny animal metaphor to talk about different types of engage
 Seal consultants
 ----------------
 
-![Seal consultant](/assets/seal-500.jpg "Seal consultant"):https://www.flickr.com/photos/guano/3604967875/
+![Seal consultant](/assets/seal-500.jpg "Seal consultant")
 
 A Seal is faithful and dedicated to one single client pretty much full-time. The Seal consultant takes a deep breath, dives in, and then stays under water with the client for months (hmmm… perhaps Whale would be a better metaphor). Seals normally don’t have as much time for other stuff such as teaching courses, but we do attend a few conferences. Once in a while a Seal will pop up above the surface, take a deep breath & learn some new stuff, perhaps find a new client, and then dive deep again.
 
