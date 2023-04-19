@@ -13,7 +13,7 @@ What is Syncopate?
 3.  **Large project or business set up and delivery (using agile etc)**. Mostly longer engagements and close to full-time.
 
 
-
+<br>
 
 Why does Syncopate exist?
 ========================================
