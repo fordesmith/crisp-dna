@@ -457,7 +457,7 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Bebas Neue', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Roboto';
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
@@ -574,7 +574,7 @@ a.button {
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Montype Corsiva', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto';
 }
 a.button small {
   display: block;
@@ -662,7 +662,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES * Garamond */
 
 #main-content h1 {
-  font-family: 'Bebas Neue', 'Tiempos Text',serif;
+  font-family: 'Roboto';
   font-size: 2.3em;
   font-weight: normal;
   letter-spacing: -1px;
@@ -682,7 +682,7 @@ form {
 }
 
 #main-content h2 {
-  font-family: 'Bebas Neue', 'Tiempos Text',serif;
+  font-family: 'Roboto';
   font-size: 1.9em;
   font-weight: normal;
   letter-spacing: -1px;
@@ -700,7 +700,7 @@ form {
 }
 
 #main-content h3 {
-  font-family: 'Bebas Neue', 'Tiempos Text',serif;
+  font-family: 'Roboto';
   font-size: 1.6em;
   font-weight: normal;
   margin-top: 24px;
@@ -717,7 +717,7 @@ form {
 }
 
 #main-content h4 {
-  font-family: 'Bebas Neue', 'Tiempos Text',serif;
+  font-family: 'Roboto';
   font-size: 1.3em;
   font-weight: normal;
   margin-bottom: 8px;
@@ -733,7 +733,7 @@ h4:before {
 }
 
 #main-content h5 {
-  font-family: 'Bebas Neue', 'Tiempos Text',serif;
+  font-family:'Roboto';
   font-size: 1.2em;
   margin-bottom: 8px;
   color: #474747;
@@ -763,7 +763,7 @@ h6:before {
   font-size: 16px;
   line-height: 1.5;
   background: #fafafa;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Roboto';
   font-weight: 400;
   color: #666;
 }
