@@ -6,13 +6,17 @@ next_section: our-why.html
 What is Syncopate?
 ==================
 
-Syncopate is a consulting company based in Sydney, Australia. Formally, Syncopate doesn't really have a business area. Nothing about our model is specific to any domain or industry.
-
-In practice though, because of our history and the people who happen to work at Syncopate, we're primarily interested in the following business areas:
+Syncopate is a consulting company based in Australia. Because of our history and the people who happen to work at Syncopate, we're primarily interested in the following business areas:
 
 1.  **New product development, especially in Financial Services**. Either shorter or longer engagements.
 2.  **Agile/Lean/Design Thinking coaching and training**. Mostly shorter engagements or part-time.
 3.  **Large project or business set up and delivery (using agile etc)**. Mostly longer engagements and close to full-time.
+
+Why does Syncopate exist?
+========================================
+
+> Syncopate is a home for people who like to **challenge the status quo and improve human potential to create a better world**. 
+We do this by uncovering and developing digital innovations, ways of working and human talent and using them to further our client’s success. We work collaboratively with our clients on their most ambitious challenges to deliver lasting change that matters. 
 
 But we aren't a very typical consulting company. For example:
 
