@@ -7,7 +7,7 @@ next_section: hack-summit.html
 Industries that we avoid
 ========================
 
-In theory we avoid the arms industry and the surveillance industry, and some others on a case-by-case basis. That's really not much of a problem in Sydney (or Australia) because we don\`t really have those industries on any scale![]()
+In theory we avoid the arms industry and the surveillance industry, and some others on a case-by-case basis. That's really not much of a problem in Australia because we don\`t really have those industries on any scale![]()
 
 Why avoid industries?
 ------------------------------------------
