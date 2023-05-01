@@ -20,7 +20,7 @@ We measure:
 How we finance our home?
 ---------------------------
 
-To cover our costs, every Syncopater pays a fixed fee per month + % fee of their revenue. The fixed fee is (FIX FEE), and the variable fee is 10%%. The fee is intended only to cover our costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
+To cover our costs, every Syncopater pays a fixed fee per month + % fee of their revenue. The fee is intended only to cover our admin costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
 
 > **Why a fixed + variable fee?** If we only had a fixed fee, consultants on the bench would quickly run out of money. And if we had only a variable fee, we might have trouble covering our fixed costs if many consultants are on the bench. With a fixed + variable fee, we get a nice balance that matches the fact that our costs are also fixed + variable.
 
