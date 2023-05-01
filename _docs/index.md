@@ -8,7 +8,7 @@ What is Syncopate?
 
 > Syncopate is a Financial Services consulting company based in Australia focussed on delivering results for clients. Because of our history and the people who happen to work at Syncopate, we're primarily interested in the following business areas:
 
-1.  **New product development, especially in Insurance and Wealth Management **. Either shorter or longer engagements.
+1.  **New product development, especially in Insurance and Wealth Management**. Either shorter or longer engagements.
 2.  **Agile/Lean/Design Thinking coaching and training**. Mostly shorter engagements or part-time.
 3.  **Large project or business set up and delivery (using agile etc) especially in Insurance and Wealth Management**. Mostly longer engagements and close to full-time.
 
