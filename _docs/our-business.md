@@ -11,9 +11,9 @@ Formally, Syncopate doesn't really have a business area. We are consultants and 
 
 In practice though, because of our history and the people who happen to work at Syncopate, we're primarily interested in the following business areas:
 
-1.  **New product development, especially in Financial Services**. Either shorter or longer engagements.
-2.  **Agile/Lean/Design Thinking coaching and training**. Mostly shorter engagements or part-time.
-3.  **Large project or business set up and delivery (using agile etc)**. Mostly longer engagements and close to full-time.
+1.  **New product development, especially in Insurance and Wealth Management**. Either shorter or longer engagements.
+2.  **Capital markets consulting especially regarding counterparty credit risk leveraging the [vannarho risk platform](http://www.vannarho.com)**. Either shorter or longer engagements.
+3.  **Large project delivery (using agile etc) especially in Insurance, Wealth Management and Capital Markets**. Mostly longer engagements and close to full-time.
 
 That is, most Syncopaters happen to spend most of their time in one of these areas, thought they typically overlap.
 
