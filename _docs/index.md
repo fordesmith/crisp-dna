@@ -9,7 +9,7 @@ What is Syncopate?
 > Syncopate is a Financial Services consulting company based in Australia focussed on delivering results for clients. Because of our history and the people who happen to work at Syncopate, we're primarily interested in the following business areas:
 
 1.  **New product development, especially in Insurance and Wealth Management**. Either shorter or longer engagements.
-2.  **Capital markets consulting especially regarding counterparty credit risk leveraging the [vannarho risk platform](vannarho.com) **. Either shorter or longer engagements.
+2.  **Capital markets consulting especially regarding counterparty credit risk leveraging the [vannarho risk platform](http://www.vannarho.com)**. Either shorter or longer engagements.
 3.  **Large project delivery (using agile etc) especially in Insurance, Wealth Management and Capital Markets**. Mostly longer engagements and close to full-time.
 
 
