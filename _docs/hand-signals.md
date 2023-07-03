@@ -18,25 +18,22 @@ Discussion signals aren't needed for small group discussions (like six or less),
 
 ### One hand up = I want to speak (put me in line)
 
-![](../assets/hand-signals/05-Want-to-speak-Crisp-Hand-Signal-225x300.jpg)
+![](/assets/05-Want-to-speak-Crisp-Hand-Signal-225x300.jpg)
 
-[View large image](../assets/hand-signals/05-Want-to-speak-Crisp-Hand-Signal.jpg)
+
 
 If you have something to say, and someone else is already speaking, and others seem to want to talk too, then put your hand up and wait your turn.
 
 ### Two hands up = I have an important fact (let me me speak ASAP!)
 
-![](../assets/hand-signals/06-Facts-Crisp-Hand-Signal-225x300.jpg)
+![](/assets/06-Facts-Crisp-Hand-Signal-225x300.jpg)
 
-[View large image](../assets/hand-signals/06-Facts-Crisp-Hand-Signal.jpg)
 
 Sometimes you have a short concise piece of information that everyone should take into account before continuing the conversation (or making the decision). Yet you don't want to interrupt the current speaker. In that case two hands up puts you first in the speaking queue.
 
 ### Circling finger = +1 (I agree with what I'm hearing right now)
 
-![](../assets/hand-signals/07-Agree-Crisp-Hand-Signal-225x300.jpg)
-
-[View large image](../assets/hand-signals/07-Agree-Crisp-Hand-Signal.jpg)
+![](/assets/07-Agree-Crisp-Hand-Signal-225x300.jpg)
 
 The circling finger is a silent way of saying "Amen bro!! I'm right wit'cha on dat!"
 
@@ -49,23 +46,19 @@ Here are the main hand signals we use when [making decisions](decisions.html) in
 
 ### Thumb up = Yes! I actively support this.
 
-![](../assets/hand-signals/01-Up-Crisp-Hand-Signal-225x300.jpg)
+![](/assets/01-Up-Crisp-Hand-Signal-225x300.jpg)
 
-[View large image](../assets/hand-signals/01-Up-Crisp-Hand-Signal.jpg)
 
 ### Thumb down = No! I block this. But I'm willing to discuss.
 
-![](../assets/hand-signals/03-Down-Crisp-Hand-Signal-225x300.jpg)
+![](/asset/03-Down-Crisp-Hand-Signal-225x300.jpg)
 
-[View large image](../assets/hand-signals/03-Down-Crisp-Hand-Signal.jpg)
 
 This means I understand the proposal, but I don't support it. Obviously I need to be willing to explain why. Sometimes the No is pretty definite, other times a minor tweak can turn the No into a Yes. Either way, further discussion is needed before we can decide.
 
 ### Fist forward = I stand aside. I don't need to be involved. Do whatever you want.
 
-![](../assets/hand-signals/04-Stand-Aside-Crisp-Hand-Signal-225x300.jpg)
-
-[View large image](../assets/hand-signals/04-Stand-Aside-Crisp-Hand-Signal.jpg)
+![](/assets/04-Stand-Aside-Crisp-Hand-Signal-225x300.jpg)
 
 Not all decisions affect everyone, so the fist-forward signal essentially gives the rest of the group permission to decide without me.
 
