@@ -21,7 +21,7 @@ We’ve refined it over 10 years.
 The Seven **Success Factors**
 ==============
 
-[![alt text](http://dna.syncopate.com.au/assets/Benefit Delivery-SF.png "Benefit Delivery Success Factors")]
+![Benefit Delivery Success Factors](/assets/Benefit Delivery-SF.png "Benefit Delivery Success Factors")
 
 
 How you use the **Benefit Delivery** assessment.
