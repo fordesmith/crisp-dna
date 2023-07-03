@@ -22,7 +22,7 @@ The Seven **Success Factors**
 ==============
 ![Seal consultant](/assets/seal-500.jpg "Seal consultant")
 
-![Benefit Delivery Success Factors](assets/Benefit Delivery-SF.png "Benefit Delivery Success Factors")
+![Benefit Delivery Success Factors](assets/BenefitDelivery-SF.png "Benefit Delivery Success Factors")
 
 
 How you use the **Benefit Delivery** assessment.
