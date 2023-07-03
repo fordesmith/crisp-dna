@@ -4,12 +4,12 @@ prev_section: inception.html
 next_section: inception.html
 ---
 
-To stay competitive, Financial Services firms need to do **difficult things**.
+To stay competitive, Financial Services firms need to do **difficult things**
 ==============
 
 Delivering benefits from transformation programs is difficult.There are many reasons why most financial services transformation programs are not transformational at all. This narrative isn't new. However, there isn’t a lot of evidence to suggest the approach is changing.
 
-That’s why we created our **Benefit Delivery** assessment.
+That’s why we created our **Benefit Delivery** assessment
 ==============
 
 It’s an online assessment now assisted by AI summaries and recommendations.
@@ -24,8 +24,8 @@ The Seven **Success Factors**
 ![Benefit Delivery Success Factors](/assets/BenefitDelivery-SF.png "Benefit Delivery Success Factors")
 
 
-How you use the **Benefit Delivery** assessment.
-------------------
+How you use the **Benefit Delivery** assessment
+==============
 
 a. You contact us take you through the assessment and example results. A demo survey can be found here. (https://www.surveymonkey.com/r/HFK2RTZ)
 
