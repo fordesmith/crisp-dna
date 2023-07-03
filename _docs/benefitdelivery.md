@@ -21,10 +21,12 @@ It’s an online assessment now assisted by AI summaries and recommendations.
 We’ve refined it over 10 years.
 
 
+
 The Seven **Success Factors**
 ==============
 
 ![Benefit Delivery Success Factors](/assets/BenefitDelivery-SF.png "Benefit Delivery Success Factors")
+
 
 
 How you use the **Benefit Delivery** assessment
@@ -37,6 +39,7 @@ b. We configure the survey for your organisation. Typically we capture results f
 c. You run the survey periodically (e.g. every three to 6 months). We can automate the AI to provide summaries of key concerns for each factor for different cohorts. 
 
 d. If you need help, we can assist run and present on the results and recommendations.
+
 
 
 
