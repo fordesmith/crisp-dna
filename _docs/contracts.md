@@ -7,13 +7,12 @@ next_section: building-competence.html
 Team contract
 =============
 
-This is the contract you sign when you join Crisp.
+This is a draft of ths contract you sign when you join Syncopate.
 
--   "Team contract, (TBD)
+-   [Team contract](/assets/contractoragreement.pdf)
 
 Shareholder contract
 ====================
 
-This is the contract you sign if you become a shareholder (see [Ownership model](ownership-model.html)).
+You will also sign a contract if you become a shareholder (see [Ownership model](ownership-model.html)).
 
--   "Shareholder contract, (TBD)
