@@ -21,8 +21,7 @@ We’ve refined it over 10 years.
 The Seven **Success Factors**
 ==============
 
-[![alt text](http://dna.syncopate.com.au/assets/Benefit Delivery-SF.png "Benefit Delivery Success Factors")
-]
+[![alt text](http://dna.syncopate.com.au/assets/Benefit Delivery-SF.png "Benefit Delivery Success Factors")]
 
 
 How you use the **Benefit Delivery** assessment.
@@ -36,8 +35,7 @@ c. You run the survey periodically (e.g. every three to 6 months). We can automa
 
 d. If you need help, we can assist run and present on the results and recommendations.
 
-[![alt text](http://dna.syncopate.com.au/assets/Benefit Delivery-Survey.png "Benefit Delivery Success Factors")
-]
+[![alt text](http://dna.syncopate.com.au/assets/Benefit Delivery-Survey.png "Benefit Delivery Success Factors")]
 
 
 
