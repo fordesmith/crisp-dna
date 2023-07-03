@@ -52,7 +52,8 @@ c. You run the survey periodically (e.g. every three to 6 months). We can automa
 d. If you need help, we can assist run and present on the results and recommendations.
 
 
-
+How an insurere used our **Benefit Delivery** assessment
+--------------
 
 ![Benefit Delivery Success Example Survey Outputs](/assets/BenefitDelivery-Survey.png "Benefit Delivery Example Survey Outputs")
 
