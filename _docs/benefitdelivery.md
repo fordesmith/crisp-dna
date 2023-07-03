@@ -57,7 +57,7 @@ How an insurer used our **Benefit Delivery** assessment
 --------------
 
 
-![Benefit Delivery Success Example Survey Outputs](/assets/BenefitDelivery-Survey.jpg "Benefit Delivery Example Survey Outputs")
+![Benefit Delivery Success Example Survey Outputs](/assets/BenefitDelivery-Survey.png "Benefit Delivery Example Survey Outputs")
 
 
 
