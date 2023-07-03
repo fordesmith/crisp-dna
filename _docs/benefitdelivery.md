@@ -7,8 +7,8 @@ next_section: inception.html
 Benefit Delivery Assessment
 ==============
 
-> *Without Benefit Delivery Assessment, we would have been blind to the factors that were eventually to shape our success*.
-<br> Insurance COO.
+> *Without the Benefit Delivery Assessment, we would have been blind to the factors that were eventually to shape our success*.
+> <br> Insurance COO
 
 To stay competitive, Financial Services firms need to do **difficult things**
 --------------
