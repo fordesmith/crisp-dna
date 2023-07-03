@@ -8,7 +8,7 @@ Benefit Delivery Assessment
 ==============
 
 > *Without the Benefit Delivery Assessment, we would have been blind to the factors that were eventually to shape our success*.
-> <br> Insurance COO
+> **Insurance COO**
 
 To stay competitive, Financial Services firms need to do **difficult things**
 --------------
