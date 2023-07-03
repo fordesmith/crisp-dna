@@ -27,7 +27,7 @@ The Seven **Success Factors**
 How you use the **Benefit Delivery** assessment
 ==============
 
-a. You contact us take you through the assessment and example results. A demo survey can be found here. (https://www.surveymonkey.com/r/HFK2RTZ)
+a. You contact us take you through the assessment and example results. [A demo survey can be found here] (https://www.surveymonkey.com/r/HFK2RTZ).
 
 b. We configure the survey for your organisation. Typically we capture results from differnt cohorts to expose differences of opinions. e.g. Executive might think the program is going well, however those in the trenches harbour concerns that they cannot otherwise communicate. 
 
