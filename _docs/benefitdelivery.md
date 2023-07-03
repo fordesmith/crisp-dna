@@ -20,6 +20,7 @@ We’ve refined it over 10 years.
 
 The Seven **Success Factors**
 ==============
+![Seal consultant](/assets/seal-500.jpg "Seal consultant")
 
 ![Benefit Delivery Success Factors](/assets/Benefit Delivery-SF.png "Benefit Delivery Success Factors")
 
