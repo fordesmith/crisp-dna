@@ -34,9 +34,12 @@ How you use the **Benefit Delivery** assessment.
 ------------------
 
 a. You contact us take you through the assessment and example results. A demo survey can be found here. 
+
 b. We configure the survey for your organisation. Typically we capture results from differnt cohorts to expose differences of opinions. e.g. Executive might think the program is going well, however those in the trenches harbour concerns that they cannot otherwise communicate. 
+
 c. You run the survey periodically (e.g. every three to 6 months). We can automate the AI to provide summaries of key concerns for each factor for different cohorts. 
-d. If you need help, we can assist run and present on the results and recommendations
+
+d. If you need help, we can assist run and present on the results and recommendations.
 
 
 
