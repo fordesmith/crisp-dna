@@ -4,8 +4,12 @@ prev_section: inception.html
 next_section: inception.html
 ---
 
-To stay competitive, Financial Services firms need to do **difficult things**
+Benefit Delivery Assessment
 ==============
+
+
+To stay competitive, Financial Services firms need to do **difficult things**
+--------------
 
 Delivering benefits from transformation programs is difficult.There are many reasons why most financial services transformation programs are not transformational at all. This narrative isn't new. However, there isn’t a lot of evidence to suggest the approach is changing.
 
@@ -16,7 +20,7 @@ Secondly, the ability to **extract benefits** from the is often lacking, resulti
 
 
 That’s why we created our **Benefit Delivery** assessment
-==============
+--------------
 
 It is based on seven factors that determine whether your transformation will deliver value, or not. 
 
@@ -28,14 +32,14 @@ We’ve refined it over 10 years.
 
 
 The Seven **Success Factors**
-==============
+--------------
 
 ![Benefit Delivery Success Factors](/assets/BenefitDelivery-SF.png "Benefit Delivery Success Factors")
 
 
 
 How you use the **Benefit Delivery** assessment
-==============
+--------------
 
 a. [Please contact us](mailto:info@syncopate.com.au) (info@syncopate.com.au) take you through the assessment and example results. [A demo survey can be found here](https://www.surveymonkey.com/r/HFK2RTZ).
 
