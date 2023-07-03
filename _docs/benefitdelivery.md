@@ -10,7 +10,7 @@ Benefit Delivery Assessment
 <br>
 
 > *"Without the Benefit Delivery Assessment, we would have been blind to the status of the factors that would eventually shape our success"*.
-> **Insurance COO**
+ <br> **Insurance COO**
 
  <br>
 
