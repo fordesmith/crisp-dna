@@ -10,7 +10,7 @@ What is Syncopate?
 
 1.  **New product development, especially in Insurance and Wealth Management**. Either shorter or longer engagements.
 2.  **Capital markets consulting especially regarding counterparty credit risk leveraging the [vannarho risk platform](http://www.vannarho.com)**. Either shorter or longer engagements.
-3.  **Large project delivery (using agile etc) especially in Insurance, Wealth Management and Capital Markets**. Mostly longer engagements and close to full-time.
+3.  **Large project delivery (using agile etc) especially in Insurance, Wealth Management and Capital Markets**. Mostly longer engagements and close to full-time. We utilise our [Benefit Delivery Assessment](benefitdelivery.html) to help pinpoint changes needed to how a program is run. 
 
 
 <br>
