@@ -9,14 +9,17 @@ To stay competitive, Financial Services firms need to do **difficult things**
 
 Delivering benefits from transformation programs is difficult.There are many reasons why most financial services transformation programs are not transformational at all. This narrative isn't new. However, there isn’t a lot of evidence to suggest the approach is changing.
 
+
+
 That’s why we created our **Benefit Delivery** assessment
 ==============
 
-It’s an online assessment now assisted by AI summaries and recommendations.
-
 It is based on seven factors that determine whether your transformation will deliver value, or not. 
 
+It’s an online assessment now assisted by AI summaries and recommendations.
+
 We’ve refined it over 10 years.
+
 
 The Seven **Success Factors**
 ==============
