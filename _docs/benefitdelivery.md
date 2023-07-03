@@ -19,8 +19,8 @@ For one, transformation programs [don't start with fundamental principles in min
 
 Secondly, the ability to **extract benefits** from the is often lacking, resulting in a lot of activity and a lot of spend, but not results. 
 
-
 <br>
+
 That’s why we created our **Benefit Delivery** assessment
 --------------
 
@@ -29,7 +29,6 @@ It is based on seven factors that determine whether your transformation will del
 It’s an online assessment now assisted by AI summaries and recommendations.
 
 We’ve refined it over 10 years.
-
 
 <br>
 
