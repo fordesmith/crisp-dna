@@ -20,7 +20,7 @@ For one, transformation programs [don't start with fundamental principles in min
 Secondly, the ability to **extract benefits** from the is often lacking, resulting in a lot of activity and a lot of spend, but not results. 
 
 
-
+<br>
 That’s why we created our **Benefit Delivery** assessment
 --------------
 
@@ -31,17 +31,18 @@ It’s an online assessment now assisted by AI summaries and recommendations.
 We’ve refined it over 10 years.
 
 
-
+<br>
 
 The Seven **Success Factors**
 --------------
 
 ![Benefit Delivery Success Factors](/assets/BenefitDelivery-SF.png "Benefit Delivery Success Factors")
 
-
+<br>
 
 How you use the **Benefit Delivery** assessment
 --------------
+
 
 a. [Please contact us](mailto:info@syncopate.com.au) (info@syncopate.com.au) take you through the assessment and example results. [A demo survey can be found here](https://www.surveymonkey.com/r/HFK2RTZ).
 
@@ -51,9 +52,11 @@ c. You run the survey periodically (e.g. every three to 6 months). We can automa
 
 d. If you need help, we can assist run and present on the results and recommendations.
 
+<br>
 
-How an insurere used our **Benefit Delivery** assessment
+How an insurer used our **Benefit Delivery** assessment
 --------------
+
 
 ![Benefit Delivery Success Example Survey Outputs](/assets/BenefitDelivery-Survey.png "Benefit Delivery Example Survey Outputs")
 
