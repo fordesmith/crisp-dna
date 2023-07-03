@@ -9,6 +9,7 @@ Use Design Thinking to Build Commitment to a New Idea
 
 10 years ago two of us started on a major transformation at BT Financial Group. We used an iterative approach to keep the Board and executive teams comfortable and confident with continuing to invest. Over that time, the logic and emotion were joined by data from the increasingly successful customer use of the products and platforms. In this way, we combined agile, lean and user-centered design to bring about a revolution in the way BTFG served its customers
 
+
 [![alt text](/assets/designthinking.png "Design Thinking")
 ](https://hbr.org/2017/01/use-design-thinking-to-build-commitment-to-a-new-idea)
 
