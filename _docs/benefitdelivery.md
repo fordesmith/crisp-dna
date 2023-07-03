@@ -19,7 +19,7 @@ To stay competitive, Financial Services firms need to do **difficult things**
 
 Delivering benefits from transformation programs is difficult.There are many reasons why most financial services transformation programs are not transformational at all. This narrative isn't new. However, there isn’t a lot of evidence to suggest the approach is changing.
 
-For one, transformation programs [don't start with fundamental principles in mind](https://www.linkedin.com/pulse/reasons-your-transformation-isnt-forde-smith%3FtrackingId=7SfokilfSQylWFCFnlrBeg%253D%253D/?trackingId=7SfokilfSQylWFCFnlrBeg%3D%3D). 
+For one, many transformation programs [don't start with fundamental principles in mind](https://www.linkedin.com/pulse/reasons-your-transformation-isnt-forde-smith%3FtrackingId=7SfokilfSQylWFCFnlrBeg%253D%253D/?trackingId=7SfokilfSQylWFCFnlrBeg%3D%3D). 
 
 Secondly, the ability to **extract benefits** from the is often lacking, resulting in a lot of activity and a lot of spend, but not results. 
 
