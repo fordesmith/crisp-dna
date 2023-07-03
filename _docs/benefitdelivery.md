@@ -21,7 +21,7 @@ Delivering benefits from transformation programs is difficult. There are many re
 
 For one, many transformation programs [don't start with fundamental principles in mind](https://www.linkedin.com/pulse/reasons-your-transformation-isnt-forde-smith%3FtrackingId=7SfokilfSQylWFCFnlrBeg%253D%253D/?trackingId=7SfokilfSQylWFCFnlrBeg%3D%3D). 
 
-Secondly, the ability to **extract benefits** from the is often lacking, resulting in a lot of activity and a lot of spend, but not results. 
+Secondly, the ability to **extract benefits** is often lacking, resulting in a lot of activity and a lot of spend, but few meaningful results. 
 
 <br>
 
