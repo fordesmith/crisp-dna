@@ -18,7 +18,7 @@ What is Syncopate?
 What's in the name?
 ==================
 
-> Syncopation is a musical term that refers to a disturbance or interruption of the regular flow of rhythmm used to create a sense of tension and release. Syncopation can be created by accenting the off-beat or by shifting the emphasis of the rhythm to a different part of the beat. 
+> Syncopation is a musical term that refers to a disturbance or interruption of the regular flow of rhythm used to create a sense of tension and release. Syncopation can be created by accenting the off-beat or by shifting the emphasis of the rhythm to a different part of the beat. 
 
 Syncopation is a great metaphor for strategic transformation. Changing a business, like syncopation, needs to be done artfully so it complements and works with the main rhythm of the business to transform it. Syncopation is also a great metaphor for the artful combination of left brain and right brain thinking in business. 
 
