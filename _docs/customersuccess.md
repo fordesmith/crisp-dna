@@ -18,7 +18,7 @@ Customer Success Assessment
 To stay competitive, leading firms need to do **difficult things**
 --------------
 
-Delivering benefits from transformation programs is difficult. There are many reasons why most financial services transformation programs are not transformational at all. This narrative isn't new. However, there isn’t a lot of evidence to suggest the approach is changing.
+Delivering benefits from transformation programs is difficult. There are many reasons why many transformation programs are not transformational at all. This narrative isn't new. However, there isn’t a lot of evidence to suggest the approach is changing.
 
 For one, many transformation programs [don't start with fundamental principles in mind](https://www.linkedin.com/pulse/reasons-your-transformation-isnt-forde-smith%3FtrackingId=7SfokilfSQylWFCFnlrBeg%253D%253D/?trackingId=7SfokilfSQylWFCFnlrBeg%3D%3D). 
 
