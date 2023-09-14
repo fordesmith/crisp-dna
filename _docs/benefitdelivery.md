@@ -43,7 +43,7 @@ The Seven **Success Factors**
 
 <br>
 
-How you use the **Customer Succcess** assessment
+How you use the **Customer Success** assessment
 --------------
 
 
