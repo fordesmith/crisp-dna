@@ -1,15 +1,15 @@
 ---
-title: Benefit Delivery Assessment
+title: Customer Success Assessment
 prev_section: inception.html
 next_section: inception.html
 ---
 
-Customer Succcess Assessment
+Customer Success Assessment
 ==============
 
 <br>
 
-> *"Without the Customer Succcess Assessment, we would have been blind to the status of the factors that would eventually shape our success"*.
+> *"Without the Customer Success Assessment, we would have been blind to the status of the factors that would eventually shape our success"*.
  <br> **Insurance COO**
 
  <br>
@@ -25,7 +25,7 @@ Secondly, the ability to **extract benefits** is often lacking, resulting in a l
 
 <br>
 
-That’s why we created our **Customer Succcess** assessment
+That’s why we created our **Customer Success** assessment
 --------------
 
 It is based on seven factors that determine whether your transformation will deliver value, or not. 
@@ -39,7 +39,7 @@ We’ve refined it over 10 years.
 The Seven **Success Factors**
 --------------
 
-![Customer Succcess Factors](/assets/BenefitDelivery-SF.png "Benefit Delivery Success Factors")
+![Customer Success Factors](/assets/BenefitDelivery-SF.png "Benefit Delivery Success Factors")
 
 <br>
 
@@ -57,7 +57,7 @@ d. If you need help, we can assist run and present on the results and recommenda
 
 <br>
 
-How an insurer used our **Customer Succcess** assessment
+How an insurer used our **Customer Success** assessment
 --------------
 
 
