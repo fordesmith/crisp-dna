@@ -7,6 +7,7 @@ next_section: inception.html
 Customer Success Assessment
 ==============
 
+
 <br>
 
 > *"Without the Customer Success Assessment, we would have been blind to the status of the factors that would eventually shape our success"*.
