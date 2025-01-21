@@ -1,16 +1,16 @@
 ---
-title: Customer Success Assessment
+title: Transformation Success Assessment
 prev_section: inception.html
 next_section: inception.html
 ---
 
-Customer Success Assessment
+Transformation Success Assessment
 ==============
 
 
 <br>
 
-> *"Without the Customer Success Assessment, we would have been blind to the status of the factors that would eventually shape our success"*.
+> *"Without the Transformation Success Assessment, we would have been blind to the status of the factors that would eventually shape our success"*.
  <br> **Insurance COO**
 
  <br>
@@ -26,7 +26,7 @@ Secondly, the ability to **extract benefits** is often lacking, resulting in a l
 
 <br>
 
-That’s why we created our **Customer Success** assessment
+That’s why we created our **Transformation Success** assessment
 --------------
 
 It is based on seven factors that determine whether your transformation will deliver value, or not. 
@@ -44,7 +44,7 @@ The Seven **Success Factors**
 
 <br>
 
-How you use the **Customer Success** assessment
+How you use the **Transformation Success** assessment
 --------------
 
 
@@ -58,7 +58,7 @@ d. If you need help, we can assist run and present on the results and recommenda
 
 <br>
 
-How an insurer used our **Customer Success** assessment
+How an insurer used our **Transformation Success** assessment
 --------------
 
 
